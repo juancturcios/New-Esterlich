@@ -8,8 +8,8 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="block">
-                        <h1>ESTERLICH RECYCLE</h1>
-                        <p>TRANSFORMANDO EL MUNDO</p>
+                        <h1>ESTERLICH POLYTEX SYSTEM</h1>
+                        <p>SYSTEMAS ECOPIPE PRESENTE &  FUTURO </p>
                     </div>
                 </div>
             </div>
@@ -18,47 +18,45 @@
 
     <section id="" class="recycle">
       <div class="container">
-        <div class="row">
-          <div>
-            <h2 class="title-mision">Plásticos Reciclados</h2>
+
+          <div >
+            <h2 class="title-mision">ESTERLICH & POLYTEX </h2>
           </div>
-          <p>Fabricamos y comercializamos reciclados de polietileno posindustrial, PET y fibras de poliester para la industria automotris, textil, contruccion, muebles y otros. </p>
+          <p>El futuro es el uso responsable de los recurzos hidricos, por este motivo nuestra misión es producir y distribuir sistemas de conduccion ecologicos, sostenibles, con costes bajos de mantenimiento, larga vida útil, precios competivos y 100% reciclables. </p>
           <hr>
-          <div class="col-md-6 col-sm-12">
-            <div class="block">
+          <div class="row">
+            <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                <img src="img/corrugados.jpg" alt="...">
+                <div class="caption">
+                  <h3>TUBERIAS CORRUGADAS PEAD</h3>
+                  <p>...</p>
 
-              <div class="media">
-                <div class="media-left">
-                  <img class="media-object" src="img/fs.png" alt="PET">
-
-                </div>
-                <div class="media-body">
-                  <h2 class="title-mision">FS</h2>
-                  <p>(Fibras Sintéticas)</p>
-                  <p class="text-justify">Con nuestro reciclados unos de nuestros partners, fabrica fibras para diferentes sectores aprovechando los residuos y convirtiéndolos en productos utilices para la industria. <br><br><b>Los principales destinos de este producto son:</b>
-Aislantes, almohadas, bajo, alfombras,  bolsas de dormir, cojines, colchones, edredones equipo de campamento, filtros, geotextiles, guatas, industria automotriz, muñecos de peluche, salas, sillones,  sofás y otros productos relacionados.</p>
                 </div>
               </div>
-
-
-        </div>
-          </div><!-- .col-md-7 close -->
-          <div class="col-md-6 col-sm-12">
-            <div class="block">
-              <div class="media">
-                <div class="media-left">
-                  <img class="media-object" src="img/pet.png" alt="PET">
+            </div>
+            <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                <img src="img/corrugados.jpg" alt="...">
+                <div class="caption">
+                  <h3>TUBERIAS PEAD PRESION</h3>
+                  <p>Tuberias para acueductos con presiones desde 4 bares hasta 25 bares diametros 20 mm - 1600 mm </p>
 
                 </div>
-          <div class="media-body">
-            <h2 class="title-mision">PET</h2>
-            <p>(Tereftalato de Polietileno)</p>
-            <p class="text-justify">Ligero, rígido o semi-rígido, transparente o de color natural, el PET es una excelente barrera contra los gases; es además resistente al impacto. Es uno de los plásticos más fácilmente reciclables y se utiliza para fabricar botellas, bolsas y fibras sintéticas para la ropa.</p>
-          </div>
-        </div>
+              </div>
             </div>
-          </div><!-- .col-md-5 close -->
-        </div>
+            <div class="col-sm-6 col-md-4">
+              <div class="thumbnail">
+                <img src="img/corrugados.jpg" alt="...">
+                <div class="caption">
+                  <h3>TUBERIAS DE PPR</h3>
+                  <p>Tuberias para la contrucción, anticísmica, garantizada por 50 años.</p>
+
+                </div>
+              </div>
+            </div>
+          </div>
+
       </div>
     </section>
 
@@ -105,6 +103,35 @@ Este es el momento de actuar y unir nuestras fuerzas en la lucha contra un probl
             </div>
           </div>
         </section>
+
+
+
+    <!-- Clients Logo Section Start -->
+
+
+
+<!-- Call to action Start -->
+
+    <!-- footer Start
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                  <div class="footer-manu">
+                    <ul>
+                      <li><a href="#">About Us</a></li>
+                      <li><a href="#">Contact us</a></li>
+                      <li><a href="#">How it works</a></li>
+                      <li><a href="#">Support</a></li>
+                      <li><a href="#">Terms</a></li>
+                    </ul>
+                  </div>
+                  <p>Copyright &copy; Crafted by <a href="https://dcrazed.com/">Dcrazed</a>.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+ -->
 
  <?php
    include 'footer.html';
