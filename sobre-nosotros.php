@@ -7,7 +7,6 @@
              <div class="col-md-12">
                  <div class="block">
                      <h1>SOBRE NOSOTROS</h1>
-                     <p>TRANSFORMANDO EL MUNDO</p>
                  </div>
              </div>
          </div>
@@ -70,6 +69,11 @@
          </div>
        </div>
      </section>
+
+     <p>ESTERLICH&CO, cuenta con profesionales de reconocido prestigio y experiencia en los principales mercados emergentes ofreciendo a sus clientes el asesoramiento global que necesitan en su fase de internacionalización.
+ESTERLICH RECYCLE , cuenta produccion propia en Nicaragua de productos plasticos reciclados para la industria textil , de la contruccion y el packing .
+POLYTEX SYSTEMS - , Fabrica y comercializa todo tipo de sistemas de conduccion en polietileno y polipropileno tanto para grandes conducciones como para sistemas de agua a presion . No definimos como una empresa libre en pvc. Contamos con distribuidores en todo centro americas dando un servicio rapido y eficiente en todo momento
+ESTERLICH & HMC se especializa en la ejecución de Proyectos Hidroeléctricos, Presas y Derivadoras, Canales, Sistemas de Riego y Drenaje, acueductos y Alcantarillado, Estaciones de Bombeo, tratamiento de residuales, aplicando a nuestros proyectos modernos SOFTWARE que combinados con la experiencia desarrollada en proyectos ejecutados en Centro y Sur América, el Caribe y África ofrecen a quienes depositan su confianza en ESTERLICH & HMC prontas y diversas soluciones a las diferentes problemáticas que se generan en el proceso de inversión.</p>
 
  <?php
    include 'footer.html';
