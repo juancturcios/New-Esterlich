@@ -9,7 +9,7 @@
           <div class="col-md-12">
             <div class="block">
               <h1 class="text-center animated fadeInUp">HOLDING GROUP</h1>
-              <p class="animated fadeInUp text-center">"NUESTRA VOCACIÓN ES DAR SOLUCIONES VIABLES, ECOLÓGICAS &#38; RÁPIDAS, ESTANDO SIEMPRE CON NUESTROS CLIENTES"</p>
+              <p class="animated fadeInUp text-center">"NUESTRA VOCACIÓN ES DAR SOLUCIONES VIABLES, ECOLÓGICAS Y RÁPIDAS, ESTANDO SIEMPRE CON NUESTROS CLIENTES"</p>
             </div>
           </div>
         </div>
