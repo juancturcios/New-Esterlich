@@ -23,10 +23,13 @@
             <div class="block">
               <div class="section-title">
                 <h2><b>ESTERLICH</b> & CO</h2>
-                <p>GRUPO de empresas, especializadas en la exportación e importación de productos, avalada por años de experiencia y proyectos ejecutados por todo el mundo. Desde la ingeniería, suministro, logística y financiación, aportando soluciones de llave en mano a nuestros clientes.
-                  </p>
+
               </div>
+              <div class="text-justify">
+              <p>GRUPO de empresas, especializadas en la exportación e importación de productos, avalada por años de experiencia y proyectos ejecutados por todo el mundo. Desde la ingeniería, suministro, logística y financiación, aportando soluciones de llave en mano a nuestros clientes.
+                </p>
               <p>Contamos con profesionales de reconocido prestigio y experiencia en los principales mercados emergentes ofreciendo a sus clientes el asesoramiento global que necesitan en su fase de internacionalización.</p>
+              </div>
             </div>
           </div><!-- .col-md-7 close -->
           <div class="col-md-5 col-sm-12">
