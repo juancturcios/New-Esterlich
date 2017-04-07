@@ -1,1 +1,7 @@
-<h1>Sobre Nosotros</h1>
+<?php
+  include 'header.html';
+ ?>
+
+ <?php
+   include 'footer.html';
+  ?>

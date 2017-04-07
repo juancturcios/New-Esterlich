@@ -1,1 +1,7 @@
-<h1>Partners</h1>
+<?php
+  include 'header.html';
+ ?>
+
+ <?php
+   include 'footer.html';
+  ?>
