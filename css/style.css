@@ -57,7 +57,7 @@ a:active {
   font-weight:600;
   text-transform: uppercase;
 }
-.mision{
+.segunda-seccion{
   background-color: rgb(241, 241, 241);
 /*  background: url("../img/call-to-action-bg.jpg") no-repeat;
   background-size: cover;
@@ -71,9 +71,30 @@ a:active {
   margin-top: 50px;
 }
 
+.tercera-seccion{
+  background-color: rgb(213, 213, 213);
+/*  background: url("../img/call-to-action-bg.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;*/
+  padding: 70px 0px;
+  position: relative;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  width: 100%;
+  height: 100%;
+}
+
 .recycle{
   margin-top: 50px;
+
 }
+
+.header-recycle{
+  background: url("../img/Esterlich & Co WP-13.png") no-repeat;
+
+}
+
+
 /*--
 	Header Start
 --*/
@@ -386,7 +407,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider-work Start
 --*/
 #global-header {
-  background: url("../img/slider-bg2.jpg") no-repeat;
+
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -402,8 +423,8 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, rgb(128, 128, 128), black);
-  opacity: 0.8;
+  background: linear-gradient(to left, rgb(84, 84, 84), black);
+  opacity: 0.6;
 }
 #global-header .block {
   color: #E3E3E4;

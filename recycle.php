@@ -3,7 +3,7 @@
  ?>
 
         <!-- Slider Start -->
-    <section id="global-header">
+    <section id="global-header" class="header-recycle">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -19,6 +19,11 @@
     <section id="" class="recycle">
       <div class="container">
         <div class="row">
+          <div >
+            <h2 class="title-mision">Plásticos Reciclados</h2>
+          </div>
+          <p>Fabricamos y comercializamos reciclados de polietileno posindustrial, PET y fibras de poliester para la industria automotris, textil, contruccion, muebles y otros. </p>
+          <hr>
           <div class="col-md-6 col-sm-12">
             <div class="block">
               <div >
@@ -44,7 +49,7 @@ los principales destinos de este producto son aislantes, almohadas, bajo, alfomb
     </section>
 
         <!-- Portfolio Start -->
-        <section id="recycle" class="mision">
+        <section id="recycle" class="segunda-seccion">
           <div class="container">
             <div class="row">
               <div class="col-md-6 col-sm-12">
@@ -69,6 +74,20 @@ Este es el momento de actuar y unir nuestras fuerzas en la lucha contra un probl
                   </div>
                 </div>
               </div><!-- .col-md-5 close -->
+            </div>
+          </div>
+        </section>
+
+        <section id="recycle" class="tercera-seccion">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-12">
+                <div class="block">
+                  <div class="text-justify">
+
+                  </div>
+                </div>
+              </div><!-- .col-md-7 close -->
             </div>
           </div>
         </section>

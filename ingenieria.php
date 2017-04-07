@@ -48,7 +48,7 @@
           </div>
         </section>
 
-        <section class="mision">
+        <section class="segunda-seccion">
           <div class="container">
             <div class="row">
               <div class="col-md-6 col-sm-12">
