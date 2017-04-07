@@ -19,7 +19,7 @@
     <section id="" class="recycle">
       <div class="container">
         <div class="row">
-          <div >
+          <div>
             <h2 class="title-mision">Plásticos Reciclados</h2>
           </div>
           <p>Fabricamos y comercializamos reciclados de polietileno posindustrial, PET y fibras de poliester para la industria automotris, textil, contruccion, muebles y otros. </p>

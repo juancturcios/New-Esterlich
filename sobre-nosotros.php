@@ -1,7 +1,7 @@
 <?php
   include 'header.html';
  ?>
- <section id="global-header">
+ <section id="global-header" class="header-sobre-nosotros">
      <div class="container">
          <div class="row">
              <div class="col-md-12">
