@@ -26,36 +26,22 @@
           <hr>
           <div class="col-md-6 col-sm-12">
             <div class="block">
+              <div >
+                <h2 class="title-mision">PET</h2>
+                <p>(Tereftalato de Polietileno)</p>
 
-              <div class="media">
-                <div class="media-left">
-                  <img class="media-object" src="img/fs.png" alt="PET">
-
-                </div>
-                <div class="media-body">
-                  <h2 class="title-mision">FS</h2>
-                  <p>(Fibras Sintéticas)</p>
-                  <p class="text-justify">Con nuestro reciclados unos de nuestros partners, fabrica fibras para diferentes sectores aprovechando los residuos y convirtiéndolos en productos utilices para la industria. <br><br><b>Los principales destinos de este producto son:</b>
-Aislantes, almohadas, bajo, alfombras,  bolsas de dormir, cojines, colchones, edredones equipo de campamento, filtros, geotextiles, guatas, industria automotriz, muñecos de peluche, salas, sillones,  sofás y otros productos relacionados.</p>
-                </div>
               </div>
-
-
-        </div>
+              <p class="text-justify">Ligero, rígido o semi-rígido, transparente o de color natural, el PET es un excelente barrera contra la y los gases ; es además resistente al impacto. Es uno de los plásticos más fácilmente reciclables y se utiliza para fabricar botellas, bolsas y fibras sintéticas para la ropa.</p>
+            </div>
           </div><!-- .col-md-7 close -->
           <div class="col-md-6 col-sm-12">
             <div class="block">
-              <div class="media">
-                <div class="media-left">
-                  <img class="media-object" src="img/pet.png" alt="PET">
-
-                </div>
-          <div class="media-body">
-            <h2 class="title-mision">PET</h2>
-            <p>(Tereftalato de Polietileno)</p>
-            <p class="text-justify">Ligero, rígido o semi-rígido, transparente o de color natural, el PET es una excelente barrera contra los gases; es además resistente al impacto. Es uno de los plásticos más fácilmente reciclables y se utiliza para fabricar botellas, bolsas y fibras sintéticas para la ropa.</p>
-          </div>
-        </div>
+              <div >
+                <h2 class="title-mision">FS</h2>
+                <p>(Fibras Sintéticas)</p>
+              </div>
+              <p class="text-justify">Con nuestro resiclados unos de nuestros parners fabrica fibras para diferentes sectore reaprovechando los residuos y combirtiendolos en productos utililes para la industria
+los principales destinos de este producto son aislantes, almohadas, bajo, alfombras, bolsas de dormir, cojines, colchones, edredones rquipo de vampamento, filtros, geotextiles, guatas, industria automotria, muñecos de peluche, salas, sillones,  sofás y otros productos relacionados</p>
             </div>
           </div><!-- .col-md-5 close -->
         </div>
