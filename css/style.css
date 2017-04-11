@@ -84,6 +84,23 @@ a:active {
   height: 100%;
 }
 
+.cuarta-seccion{
+  background-color: rgb(185, 185, 185);
+/*  background: url("../img/call-to-action-bg.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;*/
+  padding: 70px 0px;
+  position: relative;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  width: 100%;
+  height: 100%;
+}
+
+.sin-fondo{
+  background-color: rgba(254, 254, 254, 0);
+}
+
 .recycle{
   margin-top: 50px;
 
@@ -98,6 +115,10 @@ a:active {
 }
 .header-partners{
   background: url("../img/Esterlich & Co WP-13.png") no-repeat;
+
+}
+.header-ingenieria{
+  background: url("../img/ingenieria.jpg") no-repeat;
 
 }
 
