@@ -2,7 +2,7 @@
   include 'header.html';
  ?>
         <!-- Slider Start -->
-        <section id="global-header">
+        <section id="global-header" class="header-contacto">
           <div class="container">
             <div class="row">
               <div class="col-md-12">
@@ -14,6 +14,18 @@
             </div>
           </div>
         </section>
+
+        <!-- <section id="global-header" class="header-contacto">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="block">
+                            <h1>SOBRE NOSOTROS</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section> -->
         <!-- contact form start -->
         <section id="contact-form">
           <div class="container">
