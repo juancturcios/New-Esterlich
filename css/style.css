@@ -117,11 +117,14 @@ a:active {
   background: url("../img/Esterlich & Co WP-13.png") no-repeat;
 
 }
+
+.header-contacto{
+  background: url("../img/phone.png") no-repeat;
+}
 .header-ingenieria{
   background: url("../img/ingenieria.jpg") no-repeat;
 
 }
-
 
 /*--
 	Header Start

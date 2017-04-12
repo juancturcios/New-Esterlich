@@ -59,10 +59,13 @@
             <div id="contact-box" class="row">
               <div class="col-sm-12 text-center">
                 <div class="block">
-                  <h2>Stop By For A visit</h2>
+                  <h2>También visitenos ó escribanos a: </h2>
                   <ul class="address-block">
                     <li>
-                      <i class="fa fa-map-marker"></i>North Main Street,Brooklyn Australia
+                      <i class="fa fa-map-marker"></i>Esterlich&Co Spain Muelle de llevant Oficina c Bloque 3 Tarragona Spain
+                    </li>
+                    <li>
+                      <i class="fa fa-map-marker"></i>Esterlich&Co USA 600 Village green ct apt c207 Palm spring, Florida 33461 USA
                     </li>
                     <li>
                       <i class="fa fa-envelope-o"></i><a href="mailto:esterlich@esterlich-co.com">esterlich@esterlich-co.com ( mail general ) </a>
