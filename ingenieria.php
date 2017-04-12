@@ -79,31 +79,122 @@
             <h2 class="title-mision">Experencia</h2>
             <div class="row">
               <div class="col-md-4 col-sm-12">
+
                 <div class="block">
+
                   <div class="thumbnail sin-fondo">
-                    <a  data-toggle="modal" data-target="#myModal">
+                    <button type="button" data-toggle="modal" data-target="#hidroenergia">
                     <img src="img/pet.png" alt="...">
+
                     <div class="caption">
                       <hr>
                       <h3>Centrales hidroeléctricas</h3>
                     </div>
-                    </a>
+                    </button>
                   </div>
+
                 </div>
+
+
               </div>
 
 <!-- Modal -->
-<div id="myModal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
+<div id="hidroenergia" class="modal fade" role="dialog">
+  <div class="modal-dialog modal-lg">
 
     <!-- Modal content-->
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Modal Header</h4>
+        <h4 class="modal-title">Hidroenergía</h4>
       </div>
-      <div class="modal-body">
-        <p>Some text in the modal.</p>
+      <div class="modal-body text-justify">
+        <h5>2015</h5>
+        <p>Estudio de factibilidad PCH Samayare, Dpto. Danlí, Potencia 2.7 KW.<br>
+          Supervisíon y asesoria técnica civil e hidroenergetica a los proyectos PCH Las Puertas I,II,III, Dpto. Francisco Morazan, Potencia 9.5 KW.<br>
+          Diseños finales PCH Jicaro 1, Dpto lempira, Hn. Potencia: 3.84 MW.<br>
+          Supervisión a la construcción PCH San Alejo, Dpto Fco Morazán, Potencia 2.4 MW.<br>
+          Due diligence PCH Samayare, Dpto. Paraiso, Hn: Potencia: 2.18 MW.<br>
+          Estudio de Factibilidad PCH Toco-Yase, Dpto Intibuca, Hn, Potencia: 5.7 MW.<br>
+          Diseños Finales (2da revisión) PCH Paso Viejo, Dpto Cortes, Hn, Potencia 2.6 MW.</p>
+
+          <h5>2014</h5><p>
+Supervisión a la construcción PCH San Alejo, Dpto Fco Morazán, Potencia 2.4 MW.<br>
+Estudio de Prefactibilidad PCH Fenix, Dpto lempira, Hn: Potencia: 21.9 MW.<br>
+Due diligence técnico /comercial PCH Betulia, Dpto Colon: Potencia 9.1 MW.<br>
+Due diligence prefactibilidad PCH Toco-Yase, Dpto Intibuca, Hn, Potencia: 5.7. MW<br>
+Due diliegence técnico PCH Zinguizapa, Dpto Fco Morazan, Potencia 2.6 MW.<br>
+Diseños Finales PCH Paso Viejo, Dpto Cortes, Hn, Potencia 2.6 MW.</p>
+<h5>2013</h5><p>
+Supervisión a diseños finales PCH Las Puertas 1, 2, 3, Fco Morazán, Potencia 11.0 MW.<br>
+Perfil y Estudio de prefactibilidad PCH Telica, Dpto Olancho, Hn, Potencia 6.0 MW.<br>
+Due Diligence a diseños PCH Petacon, Dpto Fco Morazán, Hn, Potencia 11.1 MW.<br>
+Estudio de Prefactibilidad PCH Jicaro 3. Potencia estimada 10.3 MW.<br>
+Estudio de factibilidad PCH Paso Viejo. Dpto Cortes,Hn, Potencia 2.4 MW.<br>
+Estudio de factibilidad PCH Jicaro 1, Dpto lempira, Hn, Potencia 8.0 MW.</p>
+<h5>2012</h5><p>
+Supervisión y asesoría técnica civil e hidroenergética al proyecto PCH Petacón, Año 2012.<br>
+Revisión PCH El Netapa, Dpto. Comayagua, Potencia 2.3 MW.<br>
+Estudio de prefactibilidad PCH Cuyamelito, Departamento Cortes, Potencia 5.1MW<br>
+Estudio de prefactibilidad PCH Paso Viejo, Departamento Cortes, Potencia 1.9MW.<br>
+Estudio técnico aprovechamiento Hidroenergético al Sur de Tegucigalpa (SANAA), Dpto. Francisco Morazán.<br>
+Rediseño de Presa PCH Petacón, Dpto. Francisco de Morazán, Honduras, N= 12.5MW<br>
+Revisión Estudio factibilidad PCH Joya de la Laguna, Dpto. Santa Bárbara, Potencia 33 MW.<br>
+Revisión Estudio de factibilidad PCH El Zapote, Dpto. Cortes, Potencia 13.0 MW</p>
+<h5>2011</h5><p>
+Proyecto Ejecutivo PCH "San Alejo". Departamento de Comayagua, Potencia: 2.3 MW.<br>
+Estudio de factibilidad PCH Rio Blanco. Departamento de Santa Bárbara, Potencia 1.50 MW.<br>
+Estudio de factibilidad PCH Petacón, Dpto. Francisco Morazán, Potencia 4.7 MW<br>
+Estudio Prefactibilidad Jalán, Dpto. Olancho, Honduras, N= 8800 Kw.<br>
+Estudio Prefactibilidad Río Blanco, Dpto. Santa Barbara, Honduras, N= 1466Kw.<br>
+Estudio Prefactibilidad Río Negro, Dpto. Intibucá, Honduras, N= 2323Kw.<br>
+Estudio Prefactibilidad Jacoral, Dpto. El Paraíso, Honduras, N= 3700 Kw.<br>
+Proyecto ejecutivo PCH Petacón, Dpto. Francisco de Morazán, Honduras, N= 5250 Kw.</p>
+<h5>2009-2010</h5><p>
+Revisión y actualización del estudio hidroeléctrico PCH Aguan Bassin, Honduras N= 19178 Kw.<br>
+Estudio Prefactibilidad PCH San Antonio, Dpto. Atlántida, Honduras, N=4200 Kw.<br>
+Estudio Prefactibilidad PCH Toco Yase, Dpto La Paz , Honduras, N= 2000 Kw.<br>
+Perfil Base Hidroenergético Dpto Lempira, Honduras, N=33708 Kw.<br>
+Factibilidad Hidroeléctrica PCH Petacón, Dpto. Francisco de Morazán, Honduras, N= 5250 Kw<br>
+Revisión estudio de factibilidad hidro energética PCH Petacón, Dpto. Francisco de Morazán, Honduras, N= 5250 Kw.<br>
+Revisión y actualización del estudio PCH Toco -Yase, Dpto. Intibucá, Honduras, N=5376 Kw.<br>
+Revisión y actualización técnico económico Estudio Factibilidad PCH Puringla - Sazagua, Honduras, N= 8300.<br>
+Factibilidad Hidroeléctrica, Pequeña Central Hidroeléctrica Blanco-La Puerta I , Dpto. Francisco de Morazán, Honduras, N= 2018 Kw.<br>
+Factibilidad Hidroeléctrica, Pequeña Central Hidroeléctrica Singuizapa I y II, Dpto. Francisco de Morazán, Honduras, N= 2752 Kw.<br>
+Factibilidad Hidroeléctrica, Pequeña Central Hidroeléctrica Blanco-La Puerta II, Dpto. Francisco de Morazán, Honduras, N= 2500 Kw.</p>
+<h5>2008</h5><p>
+Estudio de Prefactibilidad PCH Toco, Dpto. Francisco de Morazán, Honduras N=2000.<br>
+Revisión y actualización estudio PCH Verdugo (VER-150), Dpto La Paz, Honduras, N=5256 Kw.<br>
+Revisión del estudio hidroeléctrico San Martín, Honduras N= 24469,940 KWH.</p>
+<h5>2005</h5><p>
+Factibilidad, Proyecto ejecutivo Hidroeléctrica Santa Elena (Chamalecón), Dpto. Copán Honduras, N= 1645 Kw.</p>
+<h5>2004</h5><p>
+Factibilidad Hidroeléctrica Finca Vinarós, Dpto. Acatenango, N= 1200Kw.<br>
+Factibilidad Hidroeléctrica Finca Los Almendros, Guatemala, N= 1000 Kw.</p>
+<h5>2003</h5><p>
+Factibilidad Hidroeléctrica Rio Metapa, Dpto. Acatenango, Guatemala, N= 3075Kw.<br>
+Estudio de Factibilidad Hidroeléctrica Finca la Libertad, Guatemala, N= 1350Kw.<br>
+Proyecto Ejecutivo y Supervisión montaje Hidroeléctrica Finca La Soledad, Potencia: N=2000 Kw, Guatemala.<br>
+Estudio de Factib Hidroeléctrica Finca El Naranjo, Guatemala, N= 80Kw.</p>
+<h5>2002</h5><p>
+Estudio de Pre Factibilidad Hidroeléctrica Dpto. Macuro, Puerto de Sucre, Venezuela, N= 146 Kw.<br>
+Estudio de factibilidad Hidroeléctrica Municipio Tacana, Guatemala, N=1000Kw.</p>
+<h5>2001</h5><p>
+Participación en estudios de Impacto ambiental, Québec, Canadá.<br>
+Estudio de factibilidad Hidroeléctrica Finca La Soledad, Guatemala, N= 2000 Kw.</p>
+<h5>2000</h5><p>
+Estudio de factibilidad Central Hidroeléctrica Bucaramanga, Colombia, año 2000, N= 1600Kwh.<br>
+Estudio de pre factibilidad Hidroeléctrica Fincas "La Conchita" y Agrícola Industrial Santa Rosa, Guatemala. N= 680 Kw y N=750 Kw.<br>
+Estudio de Factibilidad, Proyecto Ejecutivo, supervención y administración de obra Pequeña Central Hidroeléctrica Finca El Platanar, N= 100 Kw, Guatemala.</p>
+<h5>1999</h5><p>
+Proyecto técnico ejecutivo de Mini Centrales Hidroeléctricas en el Escambray, N = 100 kW.<br>
+Proyecto ejecutivo y construcción Pequeña central Hidroeléctrica "Bahia Solano", N = 2200 kW.</p>
+<h5>1998</h5><p>
+Montaje tuberías de presión hidroeléctrica "Bahia Solano" 1.6 km tubería 20", 1500m3, Dpto. Choco, Colombia.</p>
+<h5>1986</h5><p>
+Proyecto ejecutivo, Pequeña central Hidroeléctrica "Pico blanco" N=1200 Kw</p>
+
+
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
