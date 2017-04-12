@@ -19,32 +19,42 @@
         <section id="ingenieria">
           <div class="container">
             <div class="row">
-              <div class="col-md-7 col-sm-12">
+              <div class="col-md-12 col-sm-12">
                 <div class="block">
                   <div class="title-mision">
                     <br>
                     <h2><b>Esterlich &</b> HMC Ingenium SA</h2>
                   </div>
-                  <div class="text-justify">
+                  <div class="media">
 
-                    <br>
-                  <p>Esterlich & HMC Ingenium SA son una empresa especializada en prestar servicios de igeniería para proyectos diversos en los sectores de:
-                    <br>
-                    <br>
-                      <b>Ingeniería Hidráulica:</b> Proyectos de Riego, centrales hidroeléctricas, presas, canales de drenaje,de irrigación, potabilización y canalización.
-                    <br>
-                      <b>Ingeniería Mecánica:</b> Equipamiento electromecánico para centrales hidroeléctricas, plantas de tratamiento de residuales, estaciones de bombeo, diseños de estructuras metálicas para casa de máquina, esclusas, rompeolas, válvulas y compuertas de cierre.
-                    <br>
-                      <b>Ingeniería Civil:</b> Pasos de nivel, Presas y Derivadoras, Canales, Sistemas de Riego y Drenaje, acueductos y Alcantarillado, Estaciones de Bombeo, tratamiento de residuales.</p>
+                    <div class="media-body">
 
+                      <div class="text-justify">
+
+                        <br>
+                      <p>Esterlich & HMC Ingenium SA son una empresa especializada en prestar servicios de igeniería para proyectos diversos en los sectores de:
+                        <br>
+                        <br>
+                          <b>Ingeniería Hidráulica:</b> Proyectos de Riego, centrales hidroeléctricas, presas, canales de drenaje,de irrigación, potabilización y canalización.
+                        <br>
+                          <b>Ingeniería Mecánica:</b> Equipamiento electromecánico para centrales hidroeléctricas, plantas de tratamiento de residuales, estaciones de bombeo, diseños de estructuras metálicas para casa de máquina, esclusas, rompeolas, válvulas y compuertas de cierre.
+                        <br>
+                          <b>Ingeniería Civil:</b> Pasos de nivel, Presas y Derivadoras, Canales, Sistemas de Riego y Drenaje, acueductos y Alcantarillado, Estaciones de Bombeo, tratamiento de residuales.</p>
+
+                      </div>
+                    </div>
+                    <div class="media-right media-middle">
+
+                        <img class="media-object" src="img/Ing.png" style="width:70%; margin-left:50px;" alt="Ingenieria">
+
+                    </div>
                   </div>
+
+
+
                 </div>
               </div><!-- .col-md-7 close -->
-              <div class="col-md-5 col-sm-12">
-                <div class="block">
 
-                </div>
-              </div><!-- .col-md-5 close -->
             </div>
           </div>
         </section>
@@ -88,7 +98,7 @@
 
                     <div class="caption">
                       <hr>
-                      <h3>Centrales hidroeléctricas</h3>
+                      <h3 style="margin:20px;">Centrales hidroeléctricas</h3>
                     </div>
                     </button>
                   </div>
@@ -98,122 +108,18 @@
 
               </div>
 
-<!-- Modal -->
-<div id="hidroenergia" class="modal fade" role="dialog">
-  <div class="modal-dialog modal-lg">
-
-    <!-- Modal content-->
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Hidroenergía</h4>
-      </div>
-      <div class="modal-body text-justify">
-        <h5>2015</h5>
-        <p>Estudio de factibilidad PCH Samayare, Dpto. Danlí, Potencia 2.7 KW.<br>
-          Supervisíon y asesoria técnica civil e hidroenergetica a los proyectos PCH Las Puertas I,II,III, Dpto. Francisco Morazan, Potencia 9.5 KW.<br>
-          Diseños finales PCH Jicaro 1, Dpto lempira, Hn. Potencia: 3.84 MW.<br>
-          Supervisión a la construcción PCH San Alejo, Dpto Fco Morazán, Potencia 2.4 MW.<br>
-          Due diligence PCH Samayare, Dpto. Paraiso, Hn: Potencia: 2.18 MW.<br>
-          Estudio de Factibilidad PCH Toco-Yase, Dpto Intibuca, Hn, Potencia: 5.7 MW.<br>
-          Diseños Finales (2da revisión) PCH Paso Viejo, Dpto Cortes, Hn, Potencia 2.6 MW.</p>
-
-          <h5>2014</h5><p>
-Supervisión a la construcción PCH San Alejo, Dpto Fco Morazán, Potencia 2.4 MW.<br>
-Estudio de Prefactibilidad PCH Fenix, Dpto lempira, Hn: Potencia: 21.9 MW.<br>
-Due diligence técnico /comercial PCH Betulia, Dpto Colon: Potencia 9.1 MW.<br>
-Due diligence prefactibilidad PCH Toco-Yase, Dpto Intibuca, Hn, Potencia: 5.7. MW<br>
-Due diliegence técnico PCH Zinguizapa, Dpto Fco Morazan, Potencia 2.6 MW.<br>
-Diseños Finales PCH Paso Viejo, Dpto Cortes, Hn, Potencia 2.6 MW.</p>
-<h5>2013</h5><p>
-Supervisión a diseños finales PCH Las Puertas 1, 2, 3, Fco Morazán, Potencia 11.0 MW.<br>
-Perfil y Estudio de prefactibilidad PCH Telica, Dpto Olancho, Hn, Potencia 6.0 MW.<br>
-Due Diligence a diseños PCH Petacon, Dpto Fco Morazán, Hn, Potencia 11.1 MW.<br>
-Estudio de Prefactibilidad PCH Jicaro 3. Potencia estimada 10.3 MW.<br>
-Estudio de factibilidad PCH Paso Viejo. Dpto Cortes,Hn, Potencia 2.4 MW.<br>
-Estudio de factibilidad PCH Jicaro 1, Dpto lempira, Hn, Potencia 8.0 MW.</p>
-<h5>2012</h5><p>
-Supervisión y asesoría técnica civil e hidroenergética al proyecto PCH Petacón, Año 2012.<br>
-Revisión PCH El Netapa, Dpto. Comayagua, Potencia 2.3 MW.<br>
-Estudio de prefactibilidad PCH Cuyamelito, Departamento Cortes, Potencia 5.1MW<br>
-Estudio de prefactibilidad PCH Paso Viejo, Departamento Cortes, Potencia 1.9MW.<br>
-Estudio técnico aprovechamiento Hidroenergético al Sur de Tegucigalpa (SANAA), Dpto. Francisco Morazán.<br>
-Rediseño de Presa PCH Petacón, Dpto. Francisco de Morazán, Honduras, N= 12.5MW<br>
-Revisión Estudio factibilidad PCH Joya de la Laguna, Dpto. Santa Bárbara, Potencia 33 MW.<br>
-Revisión Estudio de factibilidad PCH El Zapote, Dpto. Cortes, Potencia 13.0 MW</p>
-<h5>2011</h5><p>
-Proyecto Ejecutivo PCH "San Alejo". Departamento de Comayagua, Potencia: 2.3 MW.<br>
-Estudio de factibilidad PCH Rio Blanco. Departamento de Santa Bárbara, Potencia 1.50 MW.<br>
-Estudio de factibilidad PCH Petacón, Dpto. Francisco Morazán, Potencia 4.7 MW<br>
-Estudio Prefactibilidad Jalán, Dpto. Olancho, Honduras, N= 8800 Kw.<br>
-Estudio Prefactibilidad Río Blanco, Dpto. Santa Barbara, Honduras, N= 1466Kw.<br>
-Estudio Prefactibilidad Río Negro, Dpto. Intibucá, Honduras, N= 2323Kw.<br>
-Estudio Prefactibilidad Jacoral, Dpto. El Paraíso, Honduras, N= 3700 Kw.<br>
-Proyecto ejecutivo PCH Petacón, Dpto. Francisco de Morazán, Honduras, N= 5250 Kw.</p>
-<h5>2009-2010</h5><p>
-Revisión y actualización del estudio hidroeléctrico PCH Aguan Bassin, Honduras N= 19178 Kw.<br>
-Estudio Prefactibilidad PCH San Antonio, Dpto. Atlántida, Honduras, N=4200 Kw.<br>
-Estudio Prefactibilidad PCH Toco Yase, Dpto La Paz , Honduras, N= 2000 Kw.<br>
-Perfil Base Hidroenergético Dpto Lempira, Honduras, N=33708 Kw.<br>
-Factibilidad Hidroeléctrica PCH Petacón, Dpto. Francisco de Morazán, Honduras, N= 5250 Kw<br>
-Revisión estudio de factibilidad hidro energética PCH Petacón, Dpto. Francisco de Morazán, Honduras, N= 5250 Kw.<br>
-Revisión y actualización del estudio PCH Toco -Yase, Dpto. Intibucá, Honduras, N=5376 Kw.<br>
-Revisión y actualización técnico económico Estudio Factibilidad PCH Puringla - Sazagua, Honduras, N= 8300.<br>
-Factibilidad Hidroeléctrica, Pequeña Central Hidroeléctrica Blanco-La Puerta I , Dpto. Francisco de Morazán, Honduras, N= 2018 Kw.<br>
-Factibilidad Hidroeléctrica, Pequeña Central Hidroeléctrica Singuizapa I y II, Dpto. Francisco de Morazán, Honduras, N= 2752 Kw.<br>
-Factibilidad Hidroeléctrica, Pequeña Central Hidroeléctrica Blanco-La Puerta II, Dpto. Francisco de Morazán, Honduras, N= 2500 Kw.</p>
-<h5>2008</h5><p>
-Estudio de Prefactibilidad PCH Toco, Dpto. Francisco de Morazán, Honduras N=2000.<br>
-Revisión y actualización estudio PCH Verdugo (VER-150), Dpto La Paz, Honduras, N=5256 Kw.<br>
-Revisión del estudio hidroeléctrico San Martín, Honduras N= 24469,940 KWH.</p>
-<h5>2005</h5><p>
-Factibilidad, Proyecto ejecutivo Hidroeléctrica Santa Elena (Chamalecón), Dpto. Copán Honduras, N= 1645 Kw.</p>
-<h5>2004</h5><p>
-Factibilidad Hidroeléctrica Finca Vinarós, Dpto. Acatenango, N= 1200Kw.<br>
-Factibilidad Hidroeléctrica Finca Los Almendros, Guatemala, N= 1000 Kw.</p>
-<h5>2003</h5><p>
-Factibilidad Hidroeléctrica Rio Metapa, Dpto. Acatenango, Guatemala, N= 3075Kw.<br>
-Estudio de Factibilidad Hidroeléctrica Finca la Libertad, Guatemala, N= 1350Kw.<br>
-Proyecto Ejecutivo y Supervisión montaje Hidroeléctrica Finca La Soledad, Potencia: N=2000 Kw, Guatemala.<br>
-Estudio de Factib Hidroeléctrica Finca El Naranjo, Guatemala, N= 80Kw.</p>
-<h5>2002</h5><p>
-Estudio de Pre Factibilidad Hidroeléctrica Dpto. Macuro, Puerto de Sucre, Venezuela, N= 146 Kw.<br>
-Estudio de factibilidad Hidroeléctrica Municipio Tacana, Guatemala, N=1000Kw.</p>
-<h5>2001</h5><p>
-Participación en estudios de Impacto ambiental, Québec, Canadá.<br>
-Estudio de factibilidad Hidroeléctrica Finca La Soledad, Guatemala, N= 2000 Kw.</p>
-<h5>2000</h5><p>
-Estudio de factibilidad Central Hidroeléctrica Bucaramanga, Colombia, año 2000, N= 1600Kwh.<br>
-Estudio de pre factibilidad Hidroeléctrica Fincas "La Conchita" y Agrícola Industrial Santa Rosa, Guatemala. N= 680 Kw y N=750 Kw.<br>
-Estudio de Factibilidad, Proyecto Ejecutivo, supervención y administración de obra Pequeña Central Hidroeléctrica Finca El Platanar, N= 100 Kw, Guatemala.</p>
-<h5>1999</h5><p>
-Proyecto técnico ejecutivo de Mini Centrales Hidroeléctricas en el Escambray, N = 100 kW.<br>
-Proyecto ejecutivo y construcción Pequeña central Hidroeléctrica "Bahia Solano", N = 2200 kW.</p>
-<h5>1998</h5><p>
-Montaje tuberías de presión hidroeléctrica "Bahia Solano" 1.6 km tubería 20", 1500m3, Dpto. Choco, Colombia.</p>
-<h5>1986</h5><p>
-Proyecto ejecutivo, Pequeña central Hidroeléctrica "Pico blanco" N=1200 Kw</p>
-
-
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-
-  </div>
-</div>
-
-
               <div class="col-md-4 col-sm-12">
                 <div class="block">
                   <div >
                     <div class="thumbnail sin-fondo">
+                      <button type="button" data-toggle="modal" data-target="#riego-drenaje">
                       <img src="img/pet.png" alt="...">
+
                       <div class="caption">
                         <hr>
-                        <h3>Sistema de riego y drenaje</h3>
+                        <h3 style="margin:20px;">Sistema de riego y drenaje</h3>
                       </div>
+                      </button>
                     </div>
                   </div>
               </div>
@@ -221,11 +127,14 @@ Proyecto ejecutivo, Pequeña central Hidroeléctrica "Pico blanco" N=1200 Kw</p>
               <div class="col-md-4 col-sm-12">
                 <div class="block">
                   <div class="thumbnail sin-fondo">
+                    <button type="button" data-toggle="modal" data-target="#plantas-tratamiento">
                     <img src="img/pet.png" alt="...">
+
                     <div class="caption">
                       <hr>
-                      <h3>Plantas de tratamiento</h3>
+                      <h3 style="margin:20px;">Plantas de tratamiento</h3>
                     </div>
+                    </button>
                   </div>
                 </div>
               </div><!-- .col-md-4 close -->
@@ -293,6 +202,225 @@ Proyecto ejecutivo, Pequeña central Hidroeléctrica "Pico blanco" N=1200 Kw</p>
             </div>
           </div>
         </section>
+
+        <!-- Modal -->
+        <div id="hidroenergia" class="modal fade" role="dialog">
+          <div class="modal-dialog modal-lg">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header" style="background-color:#d8d8d8;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2 class="modal-title text-center" >Hidroenergía</h2>
+              </div>
+              <div class="modal-body text-justify">
+                <h3>2015</h3>
+                <hr>
+                <p>Estudio de factibilidad PCH Samayare, Dpto. Danlí, Potencia 2.7 KW.<br>
+                  Supervisíon y asesoria técnica civil e hidroenergética a los proyectos PCH Las Puertas I,II,III, Dpto. Francisco Morazan, Potencia 9.5 KW.<br>
+                  Diseños finales PCH Jicaro 1, Dpto. lempira, Hn. Potencia: 3.84 MW.<br>
+                  Supervisión a la construcción PCH San Alejo, Dpto. Fco Morazán, Potencia 2.4 MW.<br>
+                  Due diligence PCH Samayare, Dpto. Paraiso, Hn: Potencia: 2.18 MW.<br>
+                  Estudio de factibilidad PCH Toco-Yase, Dpto. Intibuca, Hn, Potencia: 5.7 MW.<br>
+                  Diseños finales (2da revisión) PCH Paso Viejo, Dpto Cortés, Hn, Potencia 2.6 MW.</p>
+
+                  <h3>2014</h3><hr><p>
+        Supervisión a la construcción PCH San Alejo, Dpto. Fco Morazán, Potencia 2.4 MW.<br>
+        Estudio de prefactibilidad PCH Fenix, Dpto. Lempira, Hn: Potencia: 21.9 MW.<br>
+        Due diligence técnico /comercial PCH Betulia, Dpto. Colon: Potencia 9.1 MW.<br>
+        Due diligence prefactibilidad PCH Toco-Yase, Dpto. Intibuca, Hn, Potencia: 5.7. MW<br>
+        Due diliegence técnico PCH Zinguizapa, Dpto. Fco Morazan, Potencia 2.6 MW.<br>
+        Diseños finales PCH Paso Viejo, Dpto. Cortés, Hn, Potencia 2.6 MW.</p>
+        <h3>2013</h3><hr><p>
+        Supervisión a diseños finales PCH Las Puertas 1, 2, 3, Fco Morazán, Potencia 11.0 MW.<br>
+        Perfil y Estudio de prefactibilidad PCH Telica, Dpto. Olancho, Hn, Potencia 6.0 MW.<br>
+        Due Diligence a diseños PCH Petacon, Dpto. Fco Morazán, Hn, Potencia 11.1 MW.<br>
+        Estudio de prefactibilidad PCH Jicaro 3. Potencia estimada 10.3 MW.<br>
+        Estudio de factibilidad PCH Paso Viejo. Dpto. Cortés,Hn, Potencia 2.4 MW.<br>
+        Estudio de factibilidad PCH Jicaro 1, Dpto. Lempira, Hn, Potencia 8.0 MW.</p>
+        <h3>2012</h3><hr><p>
+        Supervisión y asesoría técnica civil e hidroenergética al proyecto PCH Petacón, Año 2012.<br>
+        Revisión PCH El Netapa, Dpto. Comayagua, Potencia 2.3 MW.<br>
+        Estudio de prefactibilidad PCH Cuyamelito, Dpto. Cortés, Potencia 5.1MW<br>
+        Estudio de prefactibilidad PCH Paso Viejo, Dpto. Cortés, Potencia 1.9MW.<br>
+        Estudio técnico aprovechamiento Hidroenergético al Sur de Tegucigalpa (SANAA), Dpto. Francisco Morazán.<br>
+        Rediseño de Presa PCH Petacón, Dpto. Francisco de Morazán, Honduras, N= 12.5MW<br>
+        Revisión estudio factibilidad PCH Joya de la Laguna, Dpto. Santa Bárbara, Potencia 33 MW.<br>
+        Revisión estudio de factibilidad PCH El Zapote, Dpto. Cortés, Potencia 13.0 MW</p>
+        <h3>2011</h3><hr><p>
+        Proyecto ejecutivo PCH "San Alejo". Dpto. de Comayagua, Potencia: 2.3 MW.<br>
+        Estudio de factibilidad PCH Rio Blanco. Dpto. de Santa Bárbara, Potencia 1.50 MW.<br>
+        Estudio de factibilidad PCH Petacón, Dpto. Francisco Morazán, Potencia 4.7 MW<br>
+        Estudio prefactibilidad Jalán, Dpto. Olancho, Honduras, N= 8800 Kw.<br>
+        Estudio prefactibilidad Río Blanco, Dpto. Santa Barbara, Honduras, N= 1466Kw.<br>
+        Estudio prefactibilidad Río Negro, Dpto. Intibucá, Honduras, N= 2323Kw.<br>
+        Estudio prefactibilidad Jacoral, Dpto. El Paraíso, Honduras, N= 3700 Kw.<br>
+        Proyecto ejecutivo PCH Petacón, Dpto. Francisco de Morazán, Honduras, N= 5250 Kw.</p>
+        <h3>2009-2010</h3><hr><p>
+        Revisión y actualización del estudio hidroeléctrico PCH Aguan Bassin, Honduras N= 19178 Kw.<br>
+        Estudio prefactibilidad PCH San Antonio, Dpto. Atlántida, Honduras, N=4200 Kw.<br>
+        Estudio prefactibilidad PCH Toco Yase, Dpto La Paz , Honduras, N= 2000 Kw.<br>
+        Perfil base hidroenergético Dpto. Lempira, Honduras, N=33708 Kw.<br>
+        Factibilidad hidroeléctrica PCH Petacón, Dpto. Francisco de Morazán, Honduras, N= 5250 Kw<br>
+        Revisión estudio de factibilidad hidro energética PCH Petacón, Dpto. Francisco de Morazán, Honduras, N= 5250 Kw.<br>
+        Revisión y actualización del estudio PCH Toco -Yase, Dpto. Intibucá, Honduras, N=5376 Kw.<br>
+        Revisión y actualización técnico económico Estudio Factibilidad PCH Puringla - Sazagua, Honduras, N= 8300.<br>
+        Factibilidad hidroeléctrica, Pequeña Central Hidroeléctrica Blanco-La Puerta I , Dpto. Francisco de Morazán, Honduras, N= 2018 Kw.<br>
+        Factibilidad hidroeléctrica, Pequeña Central Hidroeléctrica Singuizapa I y II, Dpto. Francisco de Morazán, Honduras, N= 2752 Kw.<br>
+        Factibilidad hidroeléctrica, Pequeña Central Hidroeléctrica Blanco-La Puerta II, Dpto. Francisco de Morazán, Honduras, N= 2500 Kw.</p>
+        <h3>2008</h3><hr><p>
+        Estudio de prefactibilidad PCH Toco, Dpto. Francisco de Morazán, Honduras N=2000.<br>
+        Revisión y actualización estudio PCH Verdugo (VER-150), Dpto La Paz, Honduras, N=5256 Kw.<br>
+        Revisión del estudio hidroeléctrico San Martín, Honduras N= 24469,940 KWH.</p>
+        <h3>2005</h3><hr><p>
+        Factibilidad, Proyecto ejecutivo Hidroeléctrica Santa Elena (Chamalecón), Dpto. Copán Honduras, N= 1645 Kw.</p>
+        <h3>2004</h3><hr><p>
+        Factibilidad hidroeléctrica Finca Vinarós, Dpto. Acatenango, N= 1200Kw.<br>
+        Factibilidad hidroeléctrica Finca Los Almendros, Guatemala, N= 1000 Kw.</p>
+        <h3>2003</h3><hr><p>
+        Factibilidad hidroeléctrica Rio Metapa, Dpto. Acatenango, Guatemala, N= 3075Kw.<br>
+        Estudio de factibilidad hidroeléctrica Finca la Libertad, Guatemala, N= 1350Kw.<br>
+        Proyecto ejecutivo y supervisión montaje Hidroeléctrica Finca La Soledad, Potencia: N=2000 Kw, Guatemala.<br>
+        Estudio de factibilidad hidroeléctrica Finca El Naranjo, Guatemala, N= 80Kw.</p>
+        <h3>2002</h3><hr><p>
+        Estudio de Pre factibilidad hidroeléctrica Dpto. Macuro, Puerto de Sucre, Venezuela, N= 146 Kw.<br>
+        Estudio de factibilidad hidroeléctrica Municipio Tacana, Guatemala, N=1000Kw.</p>
+        <h3>2001</h3><hr><p>
+        Participación en estudios de impacto ambiental, Québec, Canadá.<br>
+        Estudio de factibilidad hidroeléctrica Finca La Soledad, Guatemala, N= 2000 Kw.</p>
+        <h3>2000</h3><hr><p>
+        Estudio de factibilidad central hidroeléctrica Bucaramanga, Colombia, año 2000, N= 1600Kwh.<br>
+        Estudio de pre factibilidad hidroeléctrica Fincas "La Conchita" y Agrícola Industrial Santa Rosa, Guatemala. N= 680 Kw y N=750 Kw.<br>
+        Estudio de factibilidad, Proyecto Ejecutivo, supervención y administración de obra Pequeña Central Hidroeléctrica Finca El Platanar, N= 100 Kw, Guatemala.</p>
+        <h3>1999</h3><hr><p>
+        Proyecto técnico ejecutivo de Mini Centrales Hidroeléctricas en el Escambray, N = 100 kW.<br>
+        Proyecto ejecutivo y construcción Pequeña central Hidroeléctrica "Bahia Solano", N = 2200 kW.</p>
+        <h3>1998</h3><hr><p>
+        Montaje tuberías de presión hidroeléctrica "Bahia Solano" 1.6 km tubería 20", 1500m3, Dpto. Choco, Colombia.</p>
+        <h3>1986</h3><hr><p>
+        Proyecto ejecutivo, pequeña central hidroeléctrica "Pico blanco" N=1200 Kw</p>
+
+
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- Modal -->
+        <div id="riego-drenaje" class="modal fade" role="dialog">
+          <div class="modal-dialog modal-lg">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header" style="background-color:#d8d8d8;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2 class="modal-title text-center" >Riego y Drenajes</h2>
+              </div>
+              <div class="modal-body text-justify">
+                <h3>2005-2006</h3>
+                <hr>
+                <p>Esquema de proyecto para el desarrollo agrícola de 500 000 ha del programa Guanare-Masparro, Barinas, Venezuela., con participación de la empresa constructora ODERBRECH (Brasil), Venezuela.<br>
+Proyecto de rehabilitación: Rehabilitación del sistema de riego del río Santo Domingo, Barinas, Venezuela.<br>
+Proyecto para construcción: Sistemas de riego "Peña Larga" y "Hacienda La Marqueseña". Barinas, Venezuela.</p>
+
+                  <h3>2003</h3><hr><p>
+
+        Proyecto ejecutivo conductora de aguas mineral "A", 3.5 lts/ seg.</p>
+        <h3>1998</h3><hr><p>
+        Proyecto ejecutivo y supervisión a la construcción civil, puente colgante para hidroeléctrica "Bahia Solano", 36 m de luz, Dpto. Choco, Colombia.</p>
+        <h3>1997</h3><hr><p>
+          Montaje tuberías de presión hidroeléctrica "Bahia Solano" 1.6 km tubería 20", 1500m3, Dpto. Choco, Colombia.<br>
+          Supervisión al montaje sistema de riego y drenaje Campo de Golf "Las A" 100Km tuberías.
+        </p>
+        <h3>1996</h3><hr><p>
+        Diseño, control de obras y supervisión tubería de presión Pequeña central hidroeléctrica "P- II ", 1.2 m3/ seg.</p>
+        <h3>1994</h3><hr><p>
+        Diseño, control de obras y supervisión tubería de presión Pequeña central hidroeléctrica "P- I ", 0.6 m3/ seg.</p>
+        <h3>1992</h3><hr><p>
+      Proyecto ejecutivo conductora para población "O", (10.5 Km CoAo DE 36"), 0.9 m3/ seg.</p>
+        <h3>1990</h3><hr><p>
+        Proyecto ejecutivo y control de obra conductora potabilizadora "A", (CoAo DE 36"), 0.9 m3/seg.</p>
+        <h3>1988</h3><hr><p>
+        Diseño conductora para frutales "A- J" (CoAo 36"), 2 x17.5 Km, 1.2m3/seg.</p>
+        <h3>1987</h3><hr><p>
+        Diseño ejecutivo y supervisión de sistema de riego por aspersión para frutales "J" , 1500 Ha.</p>
+        <h3>1985</h3><hr><p>
+        Diseño estación de bombeo para frutales "M-II", 7.5 m3/seg.</p>
+        <h3>1983</h3><hr><p>
+          Diseño ejecutivo y control de obras canal magistral para Frutales "M" , 7.5 m3/seg.<br>
+  Diseño ejecutivo sistema de riego por aspersión para Frutales "M", 2832 Ha.</p>
+        <h3>1973</h3><hr><p>
+          Diseño ejecutivo, control de obras canal magistral para cultivos varios "Z", 50 m3/ seg.</p>
+        <h3>1971</h3><hr><p>
+        Diseño ejecutivo Sistema de riego para arroz "Per"1500 Ha.</p>
+        <h3>1970</h3><hr><p>
+        Diseño ejecutivo, control de obras sistema de riego para arroz "Las N", 2000 Ha.</p>
+        <h3>1969</h3><hr><p>
+          Diseño ejecutivo, control de obras sistema de riego para caña de azúcar "Ana I y II", 500 Ha.<br>
+  Diseño ejecutivo, control de obras sistema de riego para arroz, "SF" , 1000 ha.</p>
+      <h3>1968</h3><hr><p>
+      Diseño ejecutivo, control de obras sistema de riego para Viandas "'H-Y", 1500 Ha..</p>
+
+
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- Modal -->
+        <div id="plantas-tratamiento" class="modal fade" role="dialog">
+          <div class="modal-dialog modal-lg">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header" style="background-color:#d8d8d8;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2 class="modal-title text-center" >Riego y Drenajes</h2>
+              </div>
+              <div class="modal-body text-justify">
+                <h3>2009-2010</h3>
+                <hr>
+                <p>Construcción acometida "El P y la E- I y II"<br>
+                  Construcción colector residuales "Pta P"<br>
+                  Construcción de red de impulsión residuales "Lor"<br>
+                  Rehabilitación redes "Pta P"<br>
+                  Supervisión al montaje planta de tratamiento de residuales, Qd=1 300 m3/d.<br>
+                  Supervisión al montaje mecánico planta de tratamiento de Residuales, Instalación de tratamiento compacta, Qd = 50 m3/d.<br>
+                  Construcción red impulsión residuales (e. bombeo) para viviendas, Qd = 1 728 m3/d.<br>
+                  Montaje planta potabilizadora por decantación Acelerada, Qd = 108 m3/h.<br>
+                  Supervisión al montaje de suavizador de agua por intercambio iónico en resinas. Sistema Duplex. Qd = 15 m3/h.<br>
+                  Supervisión al montaje de suavizador de agua por intercambio iónico en resinas. Sistema Duplex. Qd = 45 m3/h.</p>
+
+                  <h3>2008</h3><hr><p>
+                    Montaje de planta potabilizadora de filtración a presión, en lecho multicapa arena-antracita, Qd = 360 m3/h.<br>
+                    Supervisión a la construcción red residuales "La E I" Qd = 20 m3/dDigestión Anaerobia - Aireación - Sedimentación - Cloración.</p>
+        <h3>2007</h3><hr><p>
+        Proyecto y construcción red residuales y planta de tratamiento de sesiduales "La G", Qd = 25 m3/d Digestión Anaerobia - Filtración - Cloración.</p>
+        <h3>2003</h3><hr><p>
+          Supervisión planta potabilizadora de filtros lentos de 60 m3/d, Qd = 3 módulos x 20 m3/d = 65 m3/d.<br>
+        </p>
+        <h3>1997</h3><hr><p>
+        Diseño de conductoras para residuales del turismo (8 Km AoCo DE 10''), 0.6m3/seg.</p>
+
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+
+
 
     <!-- Clients Logo Section Start -->
 

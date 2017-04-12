@@ -34,7 +34,7 @@
           </div><!-- .col-md-7 close -->
           <div class="col-md-5 col-sm-12">
             <div class="block">
-              <img src="img/wrapper-img.jpg" alt="aqui va gif">
+              <img src="img/team.png" style="width:80%; margin-top:20px; margin-left:30px;" alt ="Materiales corrugados">
             </div>
           </div><!-- .col-md-5 close -->
         </div>
