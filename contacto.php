@@ -7,7 +7,7 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="block">
-                  <h1 class="text-center">CONTÁCTO</h1>
+                  <h1 class="text-center">CONTACTO</h1>
                   <p class="text-center">Gracias por su confianza</p>
                 </div>
               </div>

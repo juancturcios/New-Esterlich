@@ -1,12 +1,13 @@
 <?php
   include 'header.html';
  ?>
- <section id="global-header" class="header-sobre-nosotros">
+ <section id="global-header" class="header-recycle">
      <div class="container">
          <div class="row">
              <div class="col-md-12">
                  <div class="block">
                      <h1>SOBRE NOSOTROS</h1>
+                     <p>HOLDING GROUP</p>
                  </div>
              </div>
          </div>
@@ -92,7 +93,7 @@
  </section>
 
      <!-- Portfolio Start -->
-     <section id="recycle" class="segunda-seccion">
+     <!-- <section id="recycle" class="segunda-seccion">
        <div class="container">
          <div class="row">
            <div class="col-md-6 col-sm-12">
@@ -101,11 +102,17 @@
                  <div >
                    <h2 class="title-mision">Misión</h2>
                  </div>
-                 <p>Nuestra Misión es proporcionar a la sociedad una respuesta colectiva de los agentes económicos ante los temas medioambientales relacionados con el consumo de productos envasados domésticos, logrando el cumplimiento de los objetivos marcados por la Ley, con la mayor eficiencia en el uso de los recursos de la compañía.
-Asimismo, creamos valor social y ambiental en nuestra sociedad, promoviendo la educación ambiental, la innovación, la eficiencia y la generación de empleo y tejido industrial.</p>
+                 <p>Nuestra Misión es proporcionar a la sociedad una respuesta
+                   colectiva de los agentes económicos ante los temas medioambientales
+                   relacionados con el consumo de productos envasados domésticos, logrando
+                    el cumplimiento de los objetivos marcados por la Ley, con la mayor
+                    eficiencia en el uso de los recursos de la compañía.
+                    Asimismo, creamos valor social y ambiental en nuestra sociedad,
+                    promoviendo la educación ambiental, la innovación, la eficiencia y
+                    la generación de empleo y tejido industrial.</p>
                </div>
              </div>
-           </div><!-- .col-md-7 close -->
+           </div>
            <div class="col-md-6 col-sm-12">
              <div class="block">
                <div class="text-justify">
@@ -116,10 +123,10 @@ Asimismo, creamos valor social y ambiental en nuestra sociedad, promoviendo la e
 Este es el momento de actuar y unir nuestras fuerzas en la lucha contra un problema global de terribles consecuencias. Y conseguirlo no es tan complicado: #SeTeHaCaído es la demostración de que un pequeño gesto multiplicado por muchas personas puede ser la solución a este problema, una llamada a la colaboración de todos que empieza por asumir nuestra responsabilidad y actuar en consecuencia para conseguir un objetivo del que todos podremos beneficiarnos.</p>
                </div>
              </div>
-           </div><!-- .col-md-5 close -->
+           </div>
          </div>
        </div>
-     </section>
+     </section> -->
 
      <section id="recycle" class="tercera-seccion">
        <div class="container">
