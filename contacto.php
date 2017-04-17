@@ -77,6 +77,8 @@
                       <i class="fa fa-envelope-o"></i><a href="mailto:sales@polytek-ipg.com">sales@polytek-ipg.com ( catalogos y precios de tuberias)</a>
                     </li>
                     <li>
+                      <i class="fa fa-envelope-o"></i><a href="mailto:esterlich-recycle@esterlich.co.com">esterlich-recycle@esterlich.co.com</a>
+
                     </li>
                     <!-- <li>
                       <i class="fa fa-phone"></i>Phone:+88 01672 506 744

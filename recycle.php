@@ -89,7 +89,7 @@ Este es el momento de actuar y unir nuestras fuerzas en la lucha contra un probl
           </div>
         </section>
 
-        <section id="recycle" class="tercera-seccion">
+        <!-- <section id="recycle" class="tercera-seccion">
           <div class="container">
             <div class="row">
               <div class="col-sm-12">
@@ -98,10 +98,10 @@ Este es el momento de actuar y unir nuestras fuerzas en la lucha contra un probl
 
                   </div>
                 </div>
-              </div><!-- .col-md-7 close -->
+              </div>
             </div>
           </div>
-        </section>
+        </section> -->
 
  <?php
    include 'footer.html';

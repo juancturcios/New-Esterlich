@@ -17,30 +17,48 @@
    <div class="container">
      <div class="row">
        <div>
-         <h2 class="title-mision">Plásticos Reciclados</h2>
+         <h2 class="title-mision">Nuestros Partners</h2>
        </div>
-       <p>Fabricamos y comercializamos reciclados de polietileno posindustrial, PET y fibras de poliester para la industria automotris, textil, contruccion, muebles y otros. </p>
        <hr>
-       <div class="col-md-6 col-sm-12">
+       <div class="col-md-4">
          <div class="block">
-           <div >
-             <h2 class="title-mision">PET</h2>
-             <p>(Tereftalato de Polietileno)</p>
+           <div>
+             <h2 class="title-mision">EMIMEX MÉXICO</h2>
+             <ul class="address-block" style="list-style:none;">
+               <li>
+                 <i class="fa fa-address-book"></i>Esterlich&Co Spain Muelle de llevant Oficina c Bloque 3 Tarragona Spain
+               </li>
+               <li>
+                 <i class="fa fa-map-marker"></i>Esterlich&Co USA 600 Village green ct apt c207 Palm spring, Florida 33461 USA
+               </li>
+
+             </ul>
 
            </div>
            <p class="text-justify">Ligero, rígido o semi-rígido, transparente o de color natural, el PET es un excelente barrera contra la y los gases ; es además resistente al impacto. Es uno de los plásticos más fácilmente reciclables y se utiliza para fabricar botellas, bolsas y fibras sintéticas para la ropa.</p>
          </div>
-       </div><!-- .col-md-7 close -->
-       <div class="col-md-6 col-sm-12">
+       </div>
+       <div class="col-md-4">
          <div class="block">
            <div >
-             <h2 class="title-mision">FS</h2>
+             <h2 class="title-mision">MESOPLAST-SEREX</h2>
              <p>(Fibras Sintéticas)</p>
            </div>
            <p class="text-justify">Con nuestro resiclados unos de nuestros parners fabrica fibras para diferentes sectore reaprovechando los residuos y combirtiendolos en productos utililes para la industria
 los principales destinos de este producto son aislantes, almohadas, bajo, alfombras, bolsas de dormir, cojines, colchones, edredones rquipo de vampamento, filtros, geotextiles, guatas, industria automotria, muñecos de peluche, salas, sillones,  sofás y otros productos relacionados</p>
          </div>
        </div><!-- .col-md-5 close -->
+
+       <div class="col-md-4">
+         <div class="block">
+           <div>
+             <h2 class="title-mision">SODINCO</h2>
+             <p>(Tereftalato de Polietileno)</p>
+
+           </div>
+           <p class="text-justify">Ligero, rígido o semi-rígido, transparente o de color natural, el PET es un excelente barrera contra la y los gases ; es además resistente al impacto. Es uno de los plásticos más fácilmente reciclables y se utiliza para fabricar botellas, bolsas y fibras sintéticas para la ropa.</p>
+         </div>
+       </div>
      </div>
    </div>
  </section>
