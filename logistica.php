@@ -6,13 +6,16 @@
          <div class="row">
              <div class="col-md-12">
                  <div class="block">
-                     <h1>SOBRE NOSOTROS</h1>
-                     <p>HOLDING GROUP</p>
+                     <h1>LOGÍSTICA</h1>
+                     <p>SOLUCIONES A MEDIDA </p>
                  </div>
              </div>
          </div>
      </div>
  </section>
-<?php
-  include 'footer.html';
- ?>
+
+
+
+ <?php
+   include 'footer.html';
+  ?>

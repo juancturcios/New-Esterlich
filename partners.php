@@ -7,7 +7,7 @@
              <div class="col-sm-12">
                  <div class="block">
                      <h1>PARTNERS</h1>
-                     <p>Completamente Especializados</p>
+                     <p>COMPLETAMENTE ESPECIALIZADOS</p>
                  </div>
              </div>
          </div>
