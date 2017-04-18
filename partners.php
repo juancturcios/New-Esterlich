@@ -26,7 +26,9 @@
          <div class="block">
            <div>
              <h2 class="title-mision">EMIMEX MÉXICO</h2>
-              <p>Envelope icon: <span class="glyphicon glyphicon-envelope"></span></p>
+             <img src="img/img.png" alt ="EMIMEX MÉXICO">
+
+              <!-- <p>Envelope icon: <span class="glyphicon glyphicon-envelope"></span></p> -->
            </div>
            <!-- <p class="text-justify">Ligero, rígido o semi-rígido, transparente o de color natural, el PET es un excelente barrera contra la y los gases ; es además resistente al impacto. Es uno de los plásticos más fácilmente reciclables y se utiliza para fabricar botellas, bolsas y fibras sintéticas para la ropa.</p> -->
          </div>
@@ -36,7 +38,7 @@
          <div class="block">
            <div>
              <h2 class="title-mision">NOVATEX-NICARAGUA</h2>
-             <p>(Fibras Sintéticas)</p>
+             <img src="img/img.png" alt ="EMIMEX MÉXICO">
            </div>
          </div>
        </div>
@@ -45,7 +47,7 @@
          <div class="block">
            <div>
              <h2 class="title-mision">NOVATEX-PERÚ</h2>
-             <p>(Fibras Sintéticas)</p>
+             <img src="img/img.png" alt ="EMIMEX MÉXICO">
            </div>
          </div>
        </div>
@@ -54,7 +56,7 @@
          <div class="block">
            <div>
              <h2 class="title-mision">MESOPLAST-SEREX</h2>
-             <p>(Fibras Sintéticas)</p>
+             <img src="img/img.png" alt ="EMIMEX MÉXICO">
            </div>
          </div>
        </div>
@@ -63,17 +65,15 @@
          <div class="block">
            <div>
              <h2 class="title-mision">SODINCO HONDURAS</h2>
-             <p>(Fibras Sintéticas)</p>
+             <img src="img/img.png" alt ="EMIMEX MÉXICO">
            </div>
 
            <div>
              <h2 class="title-mision">PLADESA</h2>
-             <p>(Fibras Sintéticas)</p>
            </div>
 
            <div>
              <h2 class="title-mision">GRUPO ARQUETIPO</h2>
-             <p>(Fibras Sintéticas)</p>
            </div>
          </div>
        </div>
@@ -82,7 +82,7 @@
          <div class="block">
            <div>
              <h2 class="title-mision">GRUPO DILMA ESPAÑA</h2>
-             <p>(Fibras Sintéticas)</p>
+             <img src="img/img.png" alt ="EMIMEX MÉXICO">
            </div>
          </div>
        </div>
