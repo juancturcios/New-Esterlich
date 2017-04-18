@@ -7,6 +7,7 @@
              <div class="col-md-12">
                  <div class="block">
                      <h1>PARTNERS</h1>
+                     <p>Completamente Especializados</p>
                  </div>
              </div>
          </div>
@@ -20,92 +21,77 @@
          <h2 class="title-mision">Nuestros Partners</h2>
        </div>
        <hr>
+
        <div class="col-md-4">
          <div class="block">
            <div>
              <h2 class="title-mision">EMIMEX MÉXICO</h2>
-             <ul class="address-block" style="list-style:none;">
-               <li>
-                 <i class="fa fa-address-book"></i>Esterlich&Co Spain Muelle de llevant Oficina c Bloque 3 Tarragona Spain
-               </li>
-               <li>
-                 <i class="fa fa-map-marker"></i>Esterlich&Co USA 600 Village green ct apt c207 Palm spring, Florida 33461 USA
-               </li>
-
-             </ul>
-
+              <p>Envelope icon: <span class="glyphicon glyphicon-envelope"></span></p>
            </div>
-           <p class="text-justify">Ligero, rígido o semi-rígido, transparente o de color natural, el PET es un excelente barrera contra la y los gases ; es además resistente al impacto. Es uno de los plásticos más fácilmente reciclables y se utiliza para fabricar botellas, bolsas y fibras sintéticas para la ropa.</p>
+           <!-- <p class="text-justify">Ligero, rígido o semi-rígido, transparente o de color natural, el PET es un excelente barrera contra la y los gases ; es además resistente al impacto. Es uno de los plásticos más fácilmente reciclables y se utiliza para fabricar botellas, bolsas y fibras sintéticas para la ropa.</p> -->
          </div>
        </div>
-       <div class="col-md-4">
-         <div class="block">
-           <div >
-             <h2 class="title-mision">MESOPLAST-SEREX</h2>
-             <p>(Fibras Sintéticas)</p>
-           </div>
-           <p class="text-justify">Con nuestro resiclados unos de nuestros parners fabrica fibras para diferentes sectore reaprovechando los residuos y combirtiendolos en productos utililes para la industria
-los principales destinos de este producto son aislantes, almohadas, bajo, alfombras, bolsas de dormir, cojines, colchones, edredones rquipo de vampamento, filtros, geotextiles, guatas, industria automotria, muñecos de peluche, salas, sillones,  sofás y otros productos relacionados</p>
-         </div>
-       </div><!-- .col-md-5 close -->
 
        <div class="col-md-4">
          <div class="block">
            <div>
-             <h2 class="title-mision">SODINCO</h2>
-             <p>(Tereftalato de Polietileno)</p>
-
+             <h2 class="title-mision">NOVATEX-NICARAGUA</h2>
+             <p>(Fibras Sintéticas)</p>
            </div>
-           <p class="text-justify">Ligero, rígido o semi-rígido, transparente o de color natural, el PET es un excelente barrera contra la y los gases ; es además resistente al impacto. Es uno de los plásticos más fácilmente reciclables y se utiliza para fabricar botellas, bolsas y fibras sintéticas para la ropa.</p>
          </div>
        </div>
+
+       <div class="col-md-4">
+         <div class="block">
+           <div>
+             <h2 class="title-mision">NOVATEX-PERÚ</h2>
+             <p>(Fibras Sintéticas)</p>
+           </div>
+         </div>
+       </div>
+
+       <div class="col-md-4">
+         <div class="block">
+           <div>
+             <h2 class="title-mision">MESOPLAST-SEREX</h2>
+             <p>(Fibras Sintéticas)</p>
+           </div>
+         </div>
+       </div>
+
+       <div class="col-md-4">
+         <div class="block">
+           <div>
+             <h2 class="title-mision">SODINCO HONDURAS</h2>
+             <p>(Fibras Sintéticas)</p>
+           </div>
+
+           <div>
+             <h2 class="title-mision">PLADESA</h2>
+             <p>(Fibras Sintéticas)</p>
+           </div>
+
+           <div>
+             <h2 class="title-mision">GRUPO ARQUETIPO</h2>
+             <p>(Fibras Sintéticas)</p>
+           </div>
+         </div>
+       </div>
+
+       <div class="col-md-4">
+         <div class="block">
+           <div>
+             <h2 class="title-mision">GRUPO DILMA ESPAÑA</h2>
+             <p>(Fibras Sintéticas)</p>
+           </div>
+         </div>
+       </div>
+
+
      </div>
    </div>
  </section>
 
-     <!-- Portfolio Start -->
-     <section id="recycle" class="segunda-seccion">
-       <div class="container">
-         <div class="row">
-           <div class="col-md-6 col-sm-12">
-             <div class="block">
-               <div class="text-justify">
-                 <div >
-                   <h2 class="title-mision">Misión</h2>
-                 </div>
-                 <p>Nuestra Misión es proporcionar a la sociedad una respuesta colectiva de los agentes económicos ante los temas medioambientales relacionados con el consumo de productos envasados domésticos, logrando el cumplimiento de los objetivos marcados por la Ley, con la mayor eficiencia en el uso de los recursos de la compañía.
-Asimismo, creamos valor social y ambiental en nuestra sociedad, promoviendo la educación ambiental, la innovación, la eficiencia y la generación de empleo y tejido industrial.</p>
-               </div>
-             </div>
-           </div><!-- .col-md-7 close -->
-           <div class="col-md-6 col-sm-12">
-             <div class="block">
-               <div class="text-justify">
-                 <div >
-                   <h2 style="font-weight:600; font-style: italic;">#SeTeHaCaído</h2>
-                 </div>
-                 <p>El abandono de residuos es una de las mayores amenazas medioambientales para el futuro del planeta. Sus consecuencias ponen en peligro la supervivencia de especies y ecosistemas fundamentales en el entorno que nos rodea.
-Este es el momento de actuar y unir nuestras fuerzas en la lucha contra un problema global de terribles consecuencias. Y conseguirlo no es tan complicado: #SeTeHaCaído es la demostración de que un pequeño gesto multiplicado por muchas personas puede ser la solución a este problema, una llamada a la colaboración de todos que empieza por asumir nuestra responsabilidad y actuar en consecuencia para conseguir un objetivo del que todos podremos beneficiarnos.</p>
-               </div>
-             </div>
-           </div><!-- .col-md-5 close -->
-         </div>
-       </div>
-     </section>
-
-     <section id="recycle" class="tercera-seccion">
-       <div class="container">
-         <div class="row">
-           <div class="col-sm-12">
-             <div class="block">
-               <div class="text-justify">
-
-               </div>
-             </div>
-           </div><!-- .col-md-7 close -->
-         </div>
-       </div>
-     </section>
  <?php
    include 'footer.html';
   ?>

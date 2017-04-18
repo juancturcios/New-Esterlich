@@ -53,7 +53,7 @@
             <li><h4>ESTERLICH & HMC</h4></li>
           </ul>
 
-          <a href="sobre_nosotros.php" class="btn btn-sobre-nosotros">Sobre Nosotros</a>
+          <a href="sobre-nosotros.php" class="btn btn-sobre-nosotros">Sobre Nosotros</a>
         </div>
       </div>
     </div>
