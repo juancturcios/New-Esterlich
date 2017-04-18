@@ -152,45 +152,44 @@
                   <div class="portfolio-contant">
                     <ul id="portfolio-contant-active">
                         <li class="mix">
-                          <a href="#">
+                          <a data-toggle="modal" href="#ing-edgar" >
                             <img src="img/Ing. Edgar.jpg" alt="">
                             <div class="overly">
                               <div class="position-center">
                                 <h2>MSC. Ing. Edgar O. Zumaquero Martínez</h2>
-                                <p>Director Ejecutivo de HMC, Ingeniero Mecánico con Maestría en Comercio Internacional, Diplomados en Gestión Económica Financiera y Finanzas Internacionales, con más de 20 años de experiencia profesional en ventas y negociaciones internacionales y exportaciones de equipos Industriales como Bombas, centrifugas, compresores, turbinas hidráulicas y proyectos de factibilidad y diseños finales.</p>
+
                               </div>
                             </div>
                           </a>
                       </li>
                       <li class="mix">
-                        <a href="#">
+                        <a data-toggle="modal" href="#ing-ariel" >
                           <img src="img/Ing. Ariel.jpg" alt="">
                           <div class="overly">
                             <div class="position-center">
                               <h2>MSC. Ing. Ariel Enrique Ramos Hernández</h2>
-                              <p>Ingeniero Hidráulico con Maestría en Matemática e Hidráulica, Diplomado en Marketing y Negociación y Auditor de Sistemas de Gestión de Calidad de la LLOYDs. Especialista Superior de Proyectos e Investigaciones Hidrológicas con más de 20 años de experiencia profesional. Ha incursionado como Ingeniero a Pie de Obra y ha desarrollado importantes Temas Científicos.</p>
+
                             </div>
                           </div>
                         </a>
                     </li>
                     <li class="mix">
-                      <a href="#">
+                      <a data-toggle="modal" href="#ing-javier" >
                         <img src="img/Ing. Javier.png" alt="">
                         <div class="overly">
                           <div class="position-center">
                             <h2>MSC. Ing. Javier Peña González</h2>
-                            <p>Ingeniero Hidráulico y Master en ingeniería para el "Manejo de los recursos hidráulicos y el medioambiente". Ha trabajado por más de 22 años como proyectista y director de proyectos para presas y obras hidrotécnicas en general. Posee conocimientos y experiencia en la gestión y explotación de los recursos hídricos por cuencas, en el diseño hidráulico y en la supervisión durante diferentes tipos de obras</p>
+
                           </div>
                         </div>
                       </a>
                   </li>
                   <li class="mix">
-                    <a href="#">
+                    <a data-toggle="modal" href="#ing-yanel" >
                       <img src="img/Ing. Yanel.jpg" alt="">
                       <div class="overly">
                         <div class="position-center">
                           <h2>Ing. Yanel Llanes Pozo</h2>
-                          <p>Ingeniero Hidráulico por más de 14 años, con experiencia en consultoría, diseño y construcción de obras de ingeniería, relacionadas con sistemas de alta presión (abastecimiento, saneamiento e hidroenergía), rectificación de causes y dragado - construcción de canales.</p>
                         </div>
                       </div>
                     </a>
@@ -419,7 +418,90 @@ Proyecto para construcción: Sistemas de riego "Peña Larga" y "Hacienda La Marq
           </div>
         </div>
 
+        <div id="ing-edgar" class="modal fade" role="dialog">
+          <div class="modal-dialog modal-lg">
 
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header" style="background-color:#d8d8d8;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2 class="modal-title text-center" >MSC. Ing. Edgar O. Zumaquero Martínez</h2>
+              </div>
+              <div class="modal-body text-justify">
+                <h3>Director Ejecutivo de HMC</h3>
+                <hr>
+                <p>Ingeniero Mecánico con Maestría en Comercio Internacional, Diplomados en Gestión Económica Financiera y Finanzas Internacionales, con más de 20 años de experiencia profesional en ventas y negociaciones internacionales y exportaciones de equipos Industriales como Bombas, centrifugas, compresores, turbinas hidráulicas y proyectos de factibilidad y diseños finales, entre los más relevantes suministros de centrifugas azucareras (FCB Francia), para 4 zafras, venta de repuestos Jamaica Sugar Co., rehabilitación de la refinería de petróleo PDVSA-CUPET, Estudios de Factibilidad y Diseño Finales Hidroeléctricos en México, Guatemala, Venezuela y Honduras (Ejemplo; PCHE El Platanar, Los almendros, Vinarós, Macuro, San Alejo, Petacón, Jicaro I, II, y III, Netapa, Chinacla, Perla, Santiago, Paso Viejo, Las Puertas, otros).</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="ing-ariel" class="modal fade" role="dialog">
+          <div class="modal-dialog modal-lg">
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header" style="background-color:#d8d8d8;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2 class="modal-title text-center" >MSC. Ing. Ariel Enrique Ramos Hernández</h2>
+              </div>
+              <div class="modal-body text-justify">
+                <h3>Ingeniero Hidráulico</h3>
+                <hr>
+                <p>Ingeniero Hidráulico con Maestría en Matemática e Hidráulica, Diplomado en Marketing y Negociación y Auditor de Sistemas de Gestión de Calidad de la LLOYDs. Especialista Superior de Proyectos e Investigaciones Hidrológicas con más de 20 años de experiencia profesional. Ha incursionado como Ingeniero a Pie de Obra y ha desarrollado importantes Temas Científicos. En los últimos años se ha especializado en la Dirección Técnica de Grupos de Proyectos. Los trabajos más relevantes son Diseño y Construcción Acueducto de Baracoa (incluye Presa de Derivación - población 60000hab), Reparación de la cortina de la Presa Lebrije (56 m de altura), Pronósticos hidrológicos y manejo de grandes cuencas. Estudio de Desarrollo de 500 000 Ha bajo riego Estado Barinas, Venezuela. Estudios de Factibilidad y Diseño Finales Hidroeléctricos, Honduras (Ejemplo; PCHE San Alejo, Petacón, Jicaro I, II, y III, Netapa, Chinacla, Perla, Santiago, Paso Viejo, Las Puertas, otros).</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="ing-javier" class="modal fade" role="dialog">
+          <div class="modal-dialog modal-lg">
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header" style="background-color:#d8d8d8;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2 class="modal-title text-center" >MSC. Ing. Javier Peña González</h2>
+              </div>
+              <div class="modal-body text-justify">
+                <h3>Ingeniero Hidráulico</h3>
+                <hr>
+                <p>Ingeniero Hidráulico y Master en ingeniería para el "Manejo de los recursos hidráulicos y el medioambiente" (UNESCO-IHE, Reino de los Países Bajos). Ha trabajado por más de 22 años como proyectista y director de proyectos para presas y obras hidrotécnicas en general. Posee conocimientos y experiencia en la gestión y explotación de los recursos hídricos por cuencas, en el diseño hidráulico y en la supervisión durante la construcción de presas de tierra, pequeñas centrales hidroeléctricas, viales, obras de abasto, y de alcantarillado y drenaje. Entre sus logros principales se incluyen los estudios hidroeconómicos del Programa para la lucha contra la desertificación y la sequía en la región Chelif-Zharez, República Democrática y Popular de Argelia y la supervisión de los trabajos de compactación de los materiales en el vial marítimo Caibarién-Cayo Santa María (50 km).</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="ing-yanel" class="modal fade" role="dialog">
+          <div class="modal-dialog modal-lg">
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header" style="background-color:#d8d8d8;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2 class="modal-title text-center" >Ing. Yanel Llanes Pozo</h2>
+              </div>
+              <div class="modal-body text-justify">
+                <h3>Ingeniero Hidráulico</h3>
+                <hr>
+                <p>Ingeniero Hidráulico por más de 14 años, con experiencia en consultoría, diseño y construcción de obras de ingeniería, relacionadas con sistemas de alta presión (abastecimiento, saneamiento e hidroenergía), rectificación de causes y dragado - construcción de canales. Dentro de los proyectos más significativos se destacan la dirección de proyectos del sistema de abastecimiento y saneamiento de Cayo Santa María y Varadero, así como la construcción y rehabilitación de pequeñas centrales hidroeléctricas en la región central del país (Cuba). Trabajos de diseño en Centrales Hidroeléctricas como San Alejo, Petacón, Jicaro I, en la república de Honduras.</p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+          </div>
+        </div>
 
 
     <!-- Clients Logo Section Start -->
