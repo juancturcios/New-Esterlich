@@ -35,33 +35,33 @@ Grupo Polytex empezó sus operaciones con el fin de producir sistemas de tuberí
               <div class="portfolio-contant">
                 <ul id="portfolio-contant-active">
                     <li class="mix">
-                      <a data-toggle="modal" href="#corrugadas-pead" >
+                      <a data-toggle="modal" href="#pead-liso" >
                         <img src="img/PET.png" alt="">
                         <div class="overly">
                           <div class="position-center" style="width:80%;">
-                            <h2>TUBERIAS CORRUGADAS PEAD</h2>
+                            <h2>TUBERIAS PEAD LISO</h2>
 
                           </div>
                         </div>
                       </a>
                   </li>
                   <li class="mix">
-                    <a data-toggle="modal" href="#ing-ariel" >
+                    <a data-toggle="modal" href="#tuberias-corrugadas" >
                       <img src="img/PET.png" alt="">
                       <div class="overly">
                         <div class="position-center" style="width:80%;">
-                          <h2>TUBERIAS PEAD PRESION</h2>
+                          <h2>TUBERIAS CORRUGADAS</h2>
 
                         </div>
                       </div>
                     </a>
                 </li>
                 <li class="mix">
-                  <a data-toggle="modal" href="#ing-javier" >
+                  <a data-toggle="modal" href="#materia-prima" >
                     <img src="img/PET.png" alt="">
                     <div class="overly">
                       <div class="position-center " style="width:80%;">
-                        <h2>TUBERIAS DE PPR</h2>
+                        <h2>MATERIA PRIMA</h2>
 
                       </div>
                     </div>
@@ -194,13 +194,13 @@ Este es el momento de actuar y unir nuestras fuerzas en la lucha contra un probl
         </section>
 
 
-        <div id="corrugadas-pead" class="modal fade" role="dialog">
+        <div id="pead-liso" class="modal fade" role="dialog">
           <div class="modal-dialog modal-lg">
             <!-- Modal content-->
             <div class="modal-content">
               <div class="modal-header" style="background-color:#d8d8d8;">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h2 class="modal-title text-center" >Tuberías corrugadas PEAD</h2>
+                <h2 class="modal-title text-center" >Tuberías PEAD Liso</h2>
               </div>
               <div class="modal-body text-justify">
                 <h3>PE-100RC</h3>
@@ -236,6 +236,93 @@ Este es el momento de actuar y unir nuestras fuerzas en la lucha contra un probl
           </div>
         </div>
 
+
+        <div id="tuberias-corrugadas" class="modal fade" role="dialog">
+          <div class="modal-dialog modal-lg">
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header" style="background-color:#d8d8d8;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2 class="modal-title text-center" >Tuberías Corrugadas</h2>
+              </div>
+              <div class="modal-body text-justify">
+                <h3>Tubería Corrugada</h3>
+                <hr>
+                <p>Después de ser usadas por muchos años en E.U.A., Japón y Europa, Polytex mejoró la tecnología de la Tubería Corrugada HDPE con acero reforzado y sin éste, con un equipo de gente experimentada para contribuir a la economía del país, en una fábrica con una superficie de 8.000 metros cuadrados. La Tubería Corrugada HDPE y la Tubería Corrugada con Acero Reforzado HDPE son dos tipos de tubería corrugada que podemos producir. </p>
+                <h3>Áreas de Aplicación</h3>
+                <hr>
+                <p>Línea de Transmisión de Agua en Proyectos de Plantas Hidroeléctricas. <br>Proyectos de Infraestructura.<br>Sistemas de Riego. <br>Líneas de Alcantarillado y  Acoplamiento Interno. <br>Líneas para Agua de Lluvia. <br>Proyectos Industriales. <br>Sistemas de Drenaje. <br>Tratamiento de Aguas. <br>Minería. <br>Hidroeléctricas.
+                </p>
+                <h3>Características Generales</h3>
+                <hr>
+                <p>Estamos produciendo tubos corrugados con el valor más alto de rigidez. Nuestros tubos son resistentes a la corrosión debido a la utilización de polietileno, de alta resistencia debido a la alta resistencia de las costillas. Tienen composición orgánica que es resistente al desgaste, superficie interior lisa, de alta viscosidad, una propiedad completa de sellado y la garantía de producción de 50 años. Las tuberías pueden transportarse e instalarse fácilmente.
+                </p>
+                <h3>Estructura de la Tubería</h3>
+                <hr>
+                <p>Superficies interna y externa son producidas con polietileno.<br>Al usar 100% HDPE, la tubería tiene un alto valor de rigidez.<br>Producción de tubería corrugada reforzada con acero puede ser producida.
+                </p>
+                <h3>Ventajas de Nuestra Tubería</h3>
+                <hr>
+                <p>Nuestras máquinas son móviles, por lo que podemos producir nuestros tubos en cualquier lugar de acuerdo a la ubicación del proyecto.<br>Debido a nuestra tecnología de producción en espiral continua, podemos satisfacer la demanda rápidamente y el tiempo de entrega será corto.<br>Debido al bajo coeficiente de fricción, el flujo de agua deseado puede ser regulado con un diámetro de la tubería pequeño, así se reducirá el costo de la tubería.<br>Debido al bajo coeficiente de fricción, dentro de la tubería no se forman depósitos ni  sedimentos.<br>El interior de los tubos se produce con polietileno de alta densidad que es el material  más resistente a la corrosión.<br>Debido a la alta rigidez y bajo peso, los tubos son de transporte fácil y rápida instalación. El tiempo de instalación es corto y el costo de instalación es bajo.<br>No son necesarios materiales especiales para la instalación. El valor del costo del tubo con el costo de instalación es el valor más bajo en el sector de tuberías. No hay desperdicio en la instalación, ya que nuestros tubos no tienen extremo de la campana y extremo liso. Nuestros tubos están conectados de extremo a extremo.
+                <br>No hay ningún costo de mantenimiento de las tuberías y el costo de operación es muy bajo.
+                </p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="materia-prima" class="modal fade" role="dialog">
+          <div class="modal-dialog modal-lg">
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header" style="background-color:#d8d8d8;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2 class="modal-title text-center" >Materia Prima</h2>
+              </div>
+              <div class="modal-body text-justify">
+                <h3>Polietileno de Alta Densidad (HDPE)</h3>
+                <hr>
+                <p>El polietileno es un termoplástico que se utiliza en una amplia gama de productos. Toma su nombre de etileno en estado de monómero. El polietileno se produce a partir de etileno. Su nombre corto es  generalmente conocido como PE en la industria del plástico.<br>La molécula de etileno es C2H4, de hecho, está formado por dos partículas CH2 atadas con doble enlace. El polietileno se fabrica a través de la polimerización de etileno. La polimerización es una reacción comenzando con unidades de monómero y que resulta en unidades de polímero. <br>Polietileno de alta densidad es un material derivado del petróleo. Es la Abreviatura del polietileno de alta densidad HDPE. En el sector de la industria y fabricación, por lo general se utiliza su abreviatura.</p>
+                <h3>Polimerización</h3>
+                <hr>
+                <p>El polietileno de alta densidad es un polímero de adición, conformado por unidades repetitivas de etileno. En el proceso de polimerización, se emplean catalizadores tipo Ziegler-Natta, y el Etileno es polimerizado a bajas presiones, mediante radicales libres.
+                </p>
+                <h3>Características del polietileno de alta densidad</h3>
+                <hr>
+                <p>Excelente resistencia térmica y química.<br>
+                  <br>Muy buena resistencia al impacto.
+                  <br>Es sólido, incoloro, translúcido, casi opaco.
+                  <br>Muy buena procesabilidad, es decir, se puede procesar por los métodos de conformado empleados para los termoplásticos, como inyección y extrusión.
+                  <br>Es flexible, aun a bajas temperaturas.
+                  <br>Es tenaz.
+                  <br>Es más rígido que el polietileno de baja densidad.
+                  <br>Presenta dificultades para imprimir, pintar o pegar sobre él.
+                  <br>Es muy ligero.
+                  <br>Su densidad se encuentra en el entorno de 0.940 - 0.970 g/cm3.
+                  <br>No es atacado por los ácidos, se considera una resistencia máxima de 60°C de trabajo para los líquidos, pues a mayor temperatura la vida útil se reduce.otros termoplásticos ofrecen mejor resistencia a mayores temperaturas.
+                  <br>Es mucho mejor el Reciclaje Mecánico y Térmico.
+                </p>
+                <h3>Estructura de la Tubería</h3>
+                <hr>
+                <p>Superficies interna y externa son producidas con polietileno.<br>Al usar 100% HDPE, la tubería tiene un alto valor de rigidez.<br>Producción de tubería corrugada reforzada con acero puede ser producida.
+                </p>
+                <h3>Ventajas de Nuestra Tubería</h3>
+                <hr>
+                <p>Nuestras máquinas son móviles, por lo que podemos producir nuestros tubos en cualquier lugar de acuerdo a la ubicación del proyecto.<br>Debido a nuestra tecnología de producción en espiral continua, podemos satisfacer la demanda rápidamente y el tiempo de entrega será corto.<br>Debido al bajo coeficiente de fricción, el flujo de agua deseado puede ser regulado con un diámetro de la tubería pequeño, así se reducirá el costo de la tubería.<br>Debido al bajo coeficiente de fricción, dentro de la tubería no se forman depósitos ni  sedimentos.<br>El interior de los tubos se produce con polietileno de alta densidad que es el material  más resistente a la corrosión.<br>Debido a la alta rigidez y bajo peso, los tubos son de transporte fácil y rápida instalación. El tiempo de instalación es corto y el costo de instalación es bajo.<br>No son necesarios materiales especiales para la instalación. El valor del costo del tubo con el costo de instalación es el valor más bajo en el sector de tuberías. No hay desperdicio en la instalación, ya que nuestros tubos no tienen extremo de la campana y extremo liso. Nuestros tubos están conectados de extremo a extremo.
+                <br>No hay ningún costo de mantenimiento de las tuberías y el costo de operación es muy bajo.
+                </p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+          </div>
+        </div>
 
 
     <!-- Clients Logo Section Start -->

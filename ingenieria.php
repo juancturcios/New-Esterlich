@@ -86,18 +86,20 @@
 
         <section class="tercera-seccion">
           <div class="container">
-            <h2 class="title-mision">Experencia</h2>
+            <h2 class="title-mision">Experiencia</h2>
+            <br>
             <div class="row">
               <div class="col-md-4 col-sm-12">
 
                 <div class="block">
 
                   <div class="thumbnail sin-fondo">
-                    <button type="button" data-toggle="modal" data-target="#hidroenergia">
-                    <img src="img/pet.png" alt="...">
+                    <img src="img/hidroenergia.png" alt="...">
+                    <button type="button" data-toggle="modal" data-target="#hidroenergia" style="padding:0px;">
+
 
                     <div class="caption">
-                      <hr>
+
                       <h3 style="margin:20px;">Centrales hidroeléctricas</h3>
                     </div>
                     </button>
@@ -112,11 +114,12 @@
                 <div class="block">
                   <div >
                     <div class="thumbnail sin-fondo">
-                      <button type="button" data-toggle="modal" data-target="#riego-drenaje">
-                      <img src="img/pet.png" alt="...">
+                      <img src="img/drenaje-riego.png" alt="...">
+                      <button type="button" data-toggle="modal" data-target="#riego-drenaje" style="padding:0px;">
+
 
                       <div class="caption">
-                        <hr>
+
                         <h3 style="margin:20px;">Sistema de riego y drenaje</h3>
                       </div>
                       </button>
@@ -127,12 +130,12 @@
               <div class="col-md-4 col-sm-12">
                 <div class="block">
                   <div class="thumbnail sin-fondo">
-                    <button type="button" data-toggle="modal" data-target="#plantas-tratamiento">
-                    <img src="img/pet.png" alt="...">
+                    <img src="img/planta-tratamiento.png" alt="...">
+                    <button type="button" data-toggle="modal" data-target="#plantas-tratamiento" style="padding:0px;">
+
 
                     <div class="caption">
-                      <hr>
-                      <h3 style="margin:20px;">Plantas de tratamiento</h3>
+                      <h3 style="margin:20px 26px 20px 26px;">Plantas de tratamiento</h3>
                     </div>
                     </button>
                   </div>
@@ -153,7 +156,7 @@
                     <ul id="portfolio-contant-active">
                         <li class="mix">
                           <a data-toggle="modal" href="#ing-edgar" >
-                            <img src="img/Ing. Edgar.jpg" alt="">
+                            <img src="img/Ing. Edgar.png" alt="">
                             <div class="overly">
                               <div class="position-center">
                                 <h2>MSC. Ing. Edgar O. Zumaquero Martínez</h2>
@@ -164,7 +167,7 @@
                       </li>
                       <li class="mix">
                         <a data-toggle="modal" href="#ing-ariel" >
-                          <img src="img/Ing. Ariel.jpg" alt="">
+                          <img src="img/Ing. Ariel.png" alt="">
                           <div class="overly">
                             <div class="position-center">
                               <h2>MSC. Ing. Ariel Enrique Ramos Hernández</h2>
@@ -175,7 +178,7 @@
                     </li>
                     <li class="mix">
                       <a data-toggle="modal" href="#ing-javier" >
-                        <img src="img/Ing. Javier.png" alt="">
+                        <img src="img/Ing. Javi.png" alt="">
                         <div class="overly">
                           <div class="position-center">
                             <h2>MSC. Ing. Javier Peña González</h2>
@@ -186,7 +189,7 @@
                   </li>
                   <li class="mix">
                     <a data-toggle="modal" href="#ing-yanel" >
-                      <img src="img/Ing. Yanel.jpg" alt="">
+                      <img src="img/Ing. Yanel.png" alt="">
                       <div class="overly">
                         <div class="position-center">
                           <h2>Ing. Yanel Llanes Pozo</h2>
