@@ -9,7 +9,7 @@
           <div class="col-md-12">
             <div class="block">
               <h1 class="text-center animated fadeInUp">ESTERLICH & CO</h1>
-              <h2>HOLDING GROUP</h2>
+              <!-- <h4 class="text-center animated fadeInUp">HOLDING GROUP</h4> -->
               <p class="animated fadeInUp text-center">"NUESTRA VOCACIÓN ES DAR SOLUCIONES VIABLES, ECOLÓGICAS Y RÁPIDAS, ESTANDO SIEMPRE CON NUESTROS CLIENTES"</p>
             </div>
           </div>
