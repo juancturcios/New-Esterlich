@@ -26,7 +26,7 @@
          <div class="block">
            <div>
              <h2 class="title-mision">EMIMEX MÉXICO</h2>
-             <img src="img/img.png" alt ="EMIMEX MÉXICO">
+             <img src="img/mexico.png" alt ="EMIMEX MÉXICO" width="230" height="115">
              <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                <a href="mailto:www.gpolytek.com"> www.gpolytek.com</a><br>
              </span>
@@ -48,7 +48,7 @@
          <div class="block">
            <div>
              <h2 class="title-mision">NOVATEX-NICARAGUA</h2>
-             <img src="img/img.png" alt ="EMIMEX MÉXICO">
+             <img src="img/nicaragua.png" width="230" height="115">
              <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                <a href="mailto:info@novatex-group.com"> info@novatex-group.com</a>
              </span>
@@ -63,7 +63,7 @@
          <div class="block">
            <div>
              <h2 class="title-mision">NOVATEX-PERÚ</h2>
-             <img src="img/img.png" alt ="EMIMEX MÉXICO">
+             <img src="img/peru.png" width="230" height="115">
              <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                <a href="mailto:info@novatex-group.com"> info@novatex-group.com</a>
              </span>
@@ -83,7 +83,7 @@
           <div class="block">
             <div>
               <h2 class="title-mision">MESOPLAST-SEREX</h2>
-              <img src="img/img.png" alt ="EMIMEX MÉXICO">
+              <img src="img/guatemala.png" width="230" height="115">
             </div>
           </div>
         </div>
@@ -92,7 +92,7 @@
           <div class="block">
             <div>
               <h2 class="title-mision">SODINCO HONDURAS</h2>
-              <img src="img/img.png" alt ="EMIMEX MÉXICO">
+              <img src="img/honduras.png" width="230" height="115">
               <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                 <a href="mailto:www.sodincohn.com"> www.sodincohn.com</a>
               </span>
@@ -124,7 +124,7 @@
           <div class="block">
             <div>
               <h2 class="title-mision">GRUPO DILMA ESPAÑA</h2>
-              <img src="img/img.png" alt ="EMIMEX MÉXICO">
+              <img src="img/espana.png" width="230" height="115">
               <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                 <a href="mailto:www.grupodilma.com"> www.grupodilma.com</a>
               </span>

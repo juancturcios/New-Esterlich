@@ -22,7 +22,7 @@
           <div>
             <h2 class="title-mision">Plásticos Reciclados</h2>
           </div>
-          <p>Fabricamos y comercializamos reciclados de polietileno posindustrial, PET y fibras de poliester para la industria automotris, textil, contruccion, muebles y otros. </p>
+          <p>Fabricamos y comercializamos reciclados de polietileno posindustrial, PET y fibras de poliéster para la industria automotriz, textil, construcción, muebles y otros. </p>
           <hr>
           <div class="col-md-6 col-sm-12">
             <div class="block">
@@ -34,7 +34,7 @@
                 <div class="media-body">
                   <h2 class="title-mision">FS</h2>
                   <p>(Fibras Sintéticas)</p>
-                  <p class="text-justify">Con nuestro reciclados unos de nuestros partners, fabrica fibras para diferentes sectores aprovechando los residuos y convirtiéndolos en productos utilices para la industria. <br><br><b>Los principales destinos de este producto son:</b>
+                  <p class="text-justify">Con nuestro reciclados unos de nuestros partners, fabrica fibras para diferentes sectores aprovechando los residuos y convirtiéndolos en productos útiles para la industria. <br><br><b>Los principales destinos de este producto son:</b>
 Aislantes, almohadas, bajo, alfombras,  bolsas de dormir, cojines, colchones, edredones equipo de campamento, filtros, geotextiles, guatas, industria automotriz, muñecos de peluche, salas, sillones,  sofás y otros productos relacionados.</p>
                 </div>
             </div>
@@ -69,7 +69,7 @@ Aislantes, almohadas, bajo, alfombras,  bolsas de dormir, cojines, colchones, ed
                     <div >
                       <h2 class="title-mision">Misión</h2>
                     </div>
-                    <p>Nuestra Misión es proporcionar a la sociedad una respuesta colectiva de los agentes económicos ante los temas medioambientales relacionados con el consumo de productos envasados domésticos, logrando el cumplimiento de los objetivos marcados por la Ley, con la mayor eficiencia en el uso de los recursos de la compañía.
+                    <p>Nuestra misión es proporcionar a la sociedad una respuesta colectiva de los agentes económicos ante los temas medioambientales relacionados con el consumo de productos envasados domésticos, logrando el cumplimiento de los objetivos marcados por la Ley, con la mayor eficiencia en el uso de los recursos de la compañía.
 Asimismo, creamos valor social y ambiental en nuestra sociedad, promoviendo la educación ambiental, la innovación, la eficiencia y la generación de empleo y tejido industrial.</p>
                   </div>
                 </div>

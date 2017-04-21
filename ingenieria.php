@@ -1,7 +1,42 @@
 <?php
   include 'header.html';
  ?>
+ <style media="screen">
+ .container {
+   position: relative;
+ }
+ .image {
+   display: block;
+   height: auto;
+ }
 
+ .overlay {
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   height: auto;
+   width: 112%;
+   opacity: 0;
+   transition: .3s ease;
+   background-color: black;
+ }
+
+ .container:hover .overlay {
+   opacity: 0.8;
+ }
+
+ .text {
+   color: white;
+   font-size: 20px;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   -ms-transform: translate(-50%, -50%);
+ }
+ </style>
         <!-- Slider Start -->
     <section id="global-header" class="header-ingenieria">
         <div class="container">
@@ -32,14 +67,14 @@
                       <div class="text-justify">
 
                         <br>
-                      <p>Esterlich & HMC Ingenium SA son una empresa especializada en prestar servicios de igeniería para proyectos diversos en los sectores de:
+                      <p>Esterlich & HMC Ingenium SA son una empresa especializada en prestar servicios de ingeniería para proyectos diversos en los sectores de:
                         <br>
                         <br>
-                          <b>Ingeniería Hidráulica:</b> Proyectos de Riego, centrales hidroeléctricas, presas, canales de drenaje,de irrigación, potabilización y canalización.
+                          <b>Ingeniería Hidráulica:</b> Proyectos de Riego, centrales hidroeléctricas, presas, canales de drenaje, de irrigación, potabilización y canalización.
                         <br>
                           <b>Ingeniería Mecánica:</b> Equipamiento electromecánico para centrales hidroeléctricas, plantas de tratamiento de residuales, estaciones de bombeo, diseños de estructuras metálicas para casa de máquina, esclusas, rompeolas, válvulas y compuertas de cierre.
                         <br>
-                          <b>Ingeniería Civil:</b> Pasos de nivel, Presas y Derivadoras, Canales, Sistemas de Riego y Drenaje, acueductos y Alcantarillado, Estaciones de Bombeo, tratamiento de residuales.</p>
+                          <b>Ingeniería Civil:</b> Pasos de nivel, presas y derivadoras, canales, sistemas de riego y drenaje, acueductos y alcantarillado, estaciones de bombeo, tratamiento de residuales.</p>
 
                       </div>
                     </div>
@@ -68,7 +103,7 @@
                     <h2 class="title-mision">Misión</h2>
 
                   </div>
-                  <p class="text-justify">Somos una empresa dedicada a prestar servicios consultoría he ingeniería a nuestros clientes y aliados con el objetivo de complementar los diversos proyectos he inversiones, usando para ello modernos SOFTWARE y la experiencia de nuestro personal técnico.</p>
+                  <p class="text-justify">Somos una empresa dedicada a prestar servicios consultoría e ingeniería a nuestros clientes y aliados con el objetivo de complementar los diversos proyectos e inversiones, usando para ello modernos software y la experiencia de nuestro personal técnico.</p>
                 </div>
               </div><!-- .col-md-7 close -->
               <div class="col-md-6 col-sm-12">
@@ -144,6 +179,24 @@
             </div>
           </div>
         </section>
+
+        <!-- <section class="cuarta-seccion">
+          <div class="container">
+                <img src="img/Ing. Edgar.png" alt="Avatar" class="image" width="300" height="auto">
+                <div class="overlay">
+                  <div class="text">Hello World</div>
+                </div>
+        </div>
+
+        <div class="container">
+              <img src="img/Ing. Edgar.png" alt="Avatar" class="image" width="300" height="auto">
+              <div class="overlay">
+                <div class="text">Hello World</div>
+              </div>
+      </div>
+        </section> -->
+
+
         <section id="portfolio-work" class="cuarta-seccion">
           <div class="container">
             <h2 class="title-mision">STAFF</h2>
@@ -154,18 +207,15 @@
 
                   <div class="portfolio-contant">
                     <ul id="portfolio-contant-active">
-                        <li class="mix" >
-                          <div class="text-center" style="width:80%">
-
-
+                        <li class="mix">
                           <a data-toggle="modal" href="#ing-edgar" >
-                            <img src="img/Ing. Edgar.png" alt="">
+                            <img src="img/Ing. Edgar.png" alt="" width="42" height="auto">
                             <div class="overly">
-                              <div class="position-center">
+                              <div class="text-center">
+                                <br><br><br><br><br>
                                 <h2>MSC. Ing. Edgar O. Zumaquero Martínez</h2>
 
                               </div>
-                            </div>
                             </div>
                           </a>
                       </li>
@@ -173,7 +223,8 @@
                         <a data-toggle="modal" href="#ing-ariel" >
                           <img src="img/Ing. Ariel.png" alt="">
                           <div class="overly">
-                            <div class="position-center">
+                            <div class="text-center">
+                              <br><br><br><br><br>
                               <h2>MSC. Ing. Ariel Enrique Ramos Hernández</h2>
 
                             </div>
@@ -184,7 +235,8 @@
                       <a data-toggle="modal" href="#ing-javier" >
                         <img src="img/Ing. Javi.png" alt="">
                         <div class="overly">
-                          <div class="position-center">
+                          <div class="text-center">
+                            <br><br><br><br><br>
                             <h2>MSC. Ing. Javier Peña González</h2>
 
                           </div>
@@ -195,7 +247,8 @@
                     <a data-toggle="modal" href="#ing-yanel" >
                       <img src="img/Ing. Yanel.png" alt="">
                       <div class="overly">
-                        <div class="position-center">
+                        <div class="text-center">
+                          <br><br><br><br><br>
                           <h2>Ing. Yanel Llanes Pozo</h2>
                         </div>
                       </div>
@@ -458,7 +511,7 @@ Proyecto para construcción: Sistemas de riego "Peña Larga" y "Hacienda La Marq
               <div class="modal-body text-justify">
                 <h3>Ingeniero Hidráulico</h3>
                 <hr>
-                <p>Ingeniero Hidráulico con Maestría en Matemática e Hidráulica, Diplomado en Marketing y Negociación y Auditor de Sistemas de Gestión de Calidad de la LLOYDs. Especialista Superior de Proyectos e Investigaciones Hidrológicas con más de 20 años de experiencia profesional. Ha incursionado como Ingeniero a Pie de Obra y ha desarrollado importantes Temas Científicos. En los últimos años se ha especializado en la Dirección Técnica de Grupos de Proyectos. Los trabajos más relevantes son Diseño y Construcción Acueducto de Baracoa (incluye Presa de Derivación - población 60000hab), Reparación de la cortina de la Presa Lebrije (56 m de altura), Pronósticos hidrológicos y manejo de grandes cuencas. Estudio de Desarrollo de 500 000 Ha bajo riego Estado Barinas, Venezuela. Estudios de Factibilidad y Diseño Finales Hidroeléctricos, Honduras (Ejemplo; PCHE San Alejo, Petacón, Jicaro I, II, y III, Netapa, Chinacla, Perla, Santiago, Paso Viejo, Las Puertas, otros).</p>
+                <p>Ingeniero Hidráulico con Maestría en Matemática e Hidráulica, Diplomado en Marketing y Negociación y Auditor de Sistemas de Gestión de Calidad de la LLOYDs. Especialista Superior de Proyectos e investigaciones hidrológicas con más de 20 años de experiencia profesional. Ha incursionado como Ingeniero a Pie de Obra y ha desarrollado importantes Temas Científicos. En los últimos años se ha especializado en la Dirección Técnica de Grupos de Proyectos. Los trabajos más relevantes son Diseño y Construcción Acueducto de Baracoa (incluye Presa de Derivación - población 60000hab), Reparación de la cortina de la Presa Lebrije (56 m de altura), Pronósticos hidrológicos y manejo de grandes cuencas. Estudio de Desarrollo de 500 000 Ha bajo riego Estado Barinas, Venezuela. Estudios de Factibilidad y Diseño Finales Hidroeléctricos, Honduras (Ejemplo; PCHE San Alejo, Petacón, Jicaro I, II, y III, Netapa, Chinacla, Perla, Santiago, Paso Viejo, Las Puertas, otros).</p>
               </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
