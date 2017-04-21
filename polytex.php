@@ -57,43 +57,43 @@ Grupo Polytex empezó sus operaciones con el fin de producir sistemas de tuberí
                     </a>
                 </li>
                 <li class="mix">
-                  <a data-toggle="modal" href="#materia-prima" >
+                  <a data-toggle="modal" href="#materia-prima-HDPE" >
                     <img src="img/PET.png" alt="">
                     <div class="overly">
                       <div class="position-center " style="width:80%;">
-                        <h2>MATERIA PRIMA</h2>
+                        <h2>MATERIA PRIMA POLIETILENO DE ALTA DENSIDAD (HDPE)</h2>
 
                       </div>
                     </div>
                   </a>
               </li>
               <li class="mix">
-                <a data-toggle="modal" href="#ing-yanel" >
+                <a data-toggle="modal" href="#tuberias-espiral-alcantarillado" >
                   <img src="img/PET.png" alt="">
                   <div class="overly">
                     <div class="position-center" style="width:80%;">
-                      <h2>TUBERIAS AGRICOLAS</h2>
+                      <h2>TUBERÍAS EN ESPIRAL PARA ALCANTARILLADO Y PROYECTOS DE CENTRALES ELÉCTRICAS</h2>
                     </div>
                   </div>
                 </a>
             </li>
             <li class="mix">
-              <a data-toggle="modal" href="#ing-javier" >
+              <a data-toggle="modal" href="#tuberias-espiral-PEAD" >
                 <img src="img/PET.png" alt="">
                 <div class="overly">
                   <div class="position-center" style="width:80%;">
-                    <h2>MAQUINARIA PEAD</h2>
+                    <h2>TUBERÍA EN ESPIRAL PEAD PARA SISTEMAS SIN PRESIÓN (GRAVITACIONALES) </h2>
 
                   </div>
                 </div>
               </a>
           </li>
           <li class="mix">
-            <a data-toggle="modal" href="#ing-javier" >
+            <a data-toggle="modal" href="#tuberia-PPR" >
               <img src="img/PET.png" alt="">
               <div class="overly">
                 <div class="position-center" style="width:80%;">
-                  <h2>PVC FREE</h2>
+                  <h2>TUBERIAS PPR</h2>
 
                 </div>
               </div>
@@ -104,48 +104,6 @@ Grupo Polytex empezó sus operaciones con el fin de producir sistemas de tuberí
             </div>
           </div>
         </div>
-      </div>
-    </section>
-
-
-
-    <section id="" class="recycle">
-      <div class="container">
-
-
-          <div class="row">
-            <div class="col-sm-6 col-md-4">
-              <div class="thumbnail">
-                <img src="img/corrugados.jpg" alt="...">
-                <div class="caption">
-                  <h3>TUBERIAS CORRUGADAS PEAD</h3>
-                  <p>...</p>
-
-                </div>
-              </div>
-            </div>
-            <div class="col-sm-6 col-md-4">
-              <div class="thumbnail">
-                <img src="img/corrugados.jpg" alt="...">
-                <div class="caption">
-                  <h3>TUBERIAS PEAD PRESION</h3>
-                  <p>Tuberias para acueductos con presiones desde 4 bares hasta 25 bares diametros 20 mm - 1600 mm </p>
-
-                </div>
-              </div>
-            </div>
-            <div class="col-sm-6 col-md-4">
-              <div class="thumbnail">
-                <img src="img/corrugados.jpg" alt="...">
-                <div class="caption">
-                  <h3>TUBERIAS DE PPR</h3>
-                  <p>Tuberias para la contrucción, anticísmica, garantizada por 50 años.</p>
-
-                </div>
-              </div>
-            </div>
-          </div>
-
       </div>
     </section>
 
@@ -275,13 +233,13 @@ Este es el momento de actuar y unir nuestras fuerzas en la lucha contra un probl
           </div>
         </div>
 
-        <div id="materia-prima" class="modal fade" role="dialog">
+        <div id="materia-prima-HDPE" class="modal fade" role="dialog">
           <div class="modal-dialog modal-lg">
             <!-- Modal content-->
             <div class="modal-content">
               <div class="modal-header" style="background-color:#d8d8d8;">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h2 class="modal-title text-center" >Materia Prima</h2>
+                <h2 class="modal-title text-center" >Materia Prima: Polietileno de Alta Densidad (HDPE)</h2>
               </div>
               <div class="modal-body text-justify">
                 <h3>Polietileno de Alta Densidad (HDPE)</h3>
@@ -324,7 +282,136 @@ Este es el momento de actuar y unir nuestras fuerzas en la lucha contra un probl
           </div>
         </div>
 
+        <div id="tuberias-espiral-alcantarillado" class="modal fade" role="dialog">
+          <div class="modal-dialog modal-lg">
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header" style="background-color:#d8d8d8;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2 class="modal-title text-center" >Tuberías en espiral para alcantarillado y proyectos de centrales eléctricas</h2>
+              </div>
+              <div class="modal-body text-justify">
+                <h3>Tubería en espiral</h3>
+                <hr>
+                <p>Al escoger tubería de plástico para proyectos de drenaje presentará sin duda alguna ventajas cruciales como  asegurar 100% de estanqueidad y llevar las pérdidas a cero. Diámetros excesivos de tubería que alcanzan 2-3 metros en proyectos de drenaje se suman a los costos de transporte y naturalmente aumentan el gasto total del proyecto, por lo que son desfavorables. Para evitar costos exorbitantes de transporte debido al alto volumen empleado de tubería en proyectos de drenaje donde solo un solo tubo cabe en un camión, nuestra empresa a desarrollado el método de manufactura in-situ basado en nuestra tecnología de punta y más moderna.</p>
+                <h3>Tecnología de creación</h3>
+                <hr>
+                <p>Gracias a nuevas tecnologías desarrolladas, el espacio de fabricación se erige en el territorio de la planta de energía y los procesos resultantes de la manufactura in-situ desaparece los costos de transporte. Bajo esta tecnología, cuando las líneas de tubería de agua son diseñadas con tubería de plástico, se pueden alcanzar costos competitivos comparados con los sistemas tradicionales.  Los tubos pueden ser fabricados en las medidas que sean deseadas. Por lo tanto, se logra una reducción en el número de juntas.
+                </p>
+                <h3>Ventajas</h3>
+                <hr>
+                <p>Eprimordialmente la dureza química, los plásticos ofrecen un tiempo de vida mucho más amplio.
+                  <br>Gracias a la tubería en espiral fabricada de materia prima de polietileno, los costos de mantenimiento en planta para líneas de drenaje se minimizan.
+                  <br>La tubería en espiral ofrece un coeficiente bastante bajo de rugosidad, tal que el fluido puede ser transportado en tuberías pequeñas comparado con las de concreto y otros sistemas, permitiendo un volumen de excavación menor.
+                  <br>La tubería esta unida por un sistema especial desarrollado de soldadura EF. Este método de unión especial garantiza una soldadura fiable y 100% de estanqueidad.
+                  <br>Gracias a la  alta rigidez de su anillo, la tubería en espiral ofrece una gran Resistencia a cualquier tipo de carga de tierra bajo el suelo o en las zonas con mucha carga de tráfico, lo que permite la transferencia de fluidos de gravedad como las aguas residuales.
 
+                </p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="tuberias-espiral-PEAD" class="modal fade" role="dialog">
+          <div class="modal-dialog modal-lg">
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header" style="background-color:#d8d8d8;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2 class="modal-title text-center" >Tuberías en espiral PEAD para sistemas sin presión (Gravitacionales)</h2>
+              </div>
+              <div class="modal-body text-justify">
+                <h3>Tubería en espiral</h3>
+                <hr>
+                <p>La tubería en espiral está diseñada como una estructura flexible para minimizar los efectos del movimiento del suelo y deformaciones y prevenir fugas de ka tubería y su estructura. </p>
+                <h3>Ventajas de la tubería en espiral libre de fugas</h3>
+                <hr>
+                <p>Flexibilidad: Contamos con una gran habilidad para producir tuberías de grandes diámetros y ofrecer las mejores soluciones para igualar sus exactos requerimientos y condiciones de sitio. La flexibilidad de nuestra producción permite que se pueda especificar los requerimientos exactos de dureza y utilizar una valiosa solución de ingeniería que no este especificada.
+                  <br>Única junta: por electro fusion: Ofrecemos una solución para las tuberías de diámetros grandes de junta por electro fusión. El cable de la electro fusión se conecta al cople final de la tubería durante la producción y suministro con un código de barras único que contiene los parámetros de instalación y ajustes necesarios para la tubería.
+                  <br>Junta Rápida: En comparación con otras tuberías de grandes diámetros nuestra tubería puede ser manejada, unida e instalada mucho más rápido, dando como resultado un ahorro en costos y tiempo.
+                  <br>Menos juntas, menos fugas:  Nuestra tubería está disponible en medidas estándares de una longitud de 6 metros, y esto puede variar según los requerimientos del cliente. Con menos juntas, se reduce considerablemente el riesgo de que existan fugas. Ofrecemos flexibilidad al especificar las juntas que sean apropiadas para el proyecto.
+                  <br>Beneficios de seguridad y bienestar humano: Las juntas por electro fusión ofrecen beneficios para la seguridad y bienestar humano por sobre los métodos tradicionales, al reducir la necesidad de trabajar en espacios confinados. En sitio nuestra tubería puede ser unida a un lado de la zanja, antes de que la instalen, reduciendo los riesgos de seguridad durante la instalación.
+                </p>
+                <h3>Realidades de la tubería en espiral </h3>
+                <hr>
+                <p>Fabricar tanques y pozos de visita en cualquier medida.
+                  <br>Disponible para sistemas de drenaje, plantas de energía y proyectos de descargas al mar.
+                  <br>Peso ligero para mayor facilidad el manejo e instalación combinado con alta durabilidad y rigidez.
+                  <br>100% reciclable después de su tiempo de vida.  • Ideal para usar como sistema de atenuación a gran escala.
+                  <br>Diseño duro pero a la vez flexible.
+                  <br>Apto para resistir movimiento del suelo sin fugas.
+                  <br>Desempeño hidráulico superior a través de una superficie lisa.
+                  <br>Diámetro de hasta 3600mm. • Materiales durables.
+                  <br>Excelente Resistencia al ataque de sulfatos y químicos.
+                  <br>Mayores longitudes del tubo para mejorar la integridad de la tubería y tener menos juntas.
+                  <br>Sistema de juntas por electro fusión.
+                  <br>Excelente capacidad para sobrellevar las cargas.
+                </p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+
+        <div id="tuberia-PPR" class="modal fade" role="dialog">
+          <div class="modal-dialog modal-lg">
+            <!-- Modal content-->
+            <div class="modal-content">
+              <div class="modal-header" style="background-color:#d8d8d8;">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2 class="modal-title text-center" >Tuberías PPR</h2>
+              </div>
+              <div class="modal-body text-justify">
+                <h3>Tubería PPR</h3>
+                <hr>
+                <p>El Polipropileno Random, PP-R, es un polímero (plástico), que debido a sus excelentes propiedades, lo convierten en la mejor
+                  alternativa para la distribución y suministro de agua potable a presión, e incluso canalización de otros fluidos, tanto en el sector
+                  doméstico como industrial, también alimentario, ya que garantiza total atoxicidad para el ser humano.
+                  <br>Los tubos Polytek son producidos únicamente PP-R Tipo 3,  el cual tiene varias ventajas sobre otros materiales: larga duración, mayor flexibilidad, alta resistencia a la presión y el calor, de alto peso molecular, de baja MFR, alto aislamiento acústico y térmico.
+                  <br>La experiencia en la fabricación de accesorios de latón de Mega-Therm Polytex de más de 35 años, nos permite trasladar al mercado unos parámetros de calidad en los mismos, muy por encima de la media del mercado.
+                </p>
+                <h3>Aplicaciones</h3>
+                <hr>
+                <p>Es ampliamente utilizado en los sistemas de agua caliente y fría y los sistemas de calefacción del radiador, así como en sistemas de distribución de líquidos industriales. Por lo general, este material se encuentra en las instalaciones de agua potable.
+                </p>
+                <h3>Características/h3>
+                <hr>
+                <p>Vida útil extremadamente larga de por lo menos 50 años.<br>
+                  <br>No conserva olores ni sabores.
+                  <br>Excelente soldabilidad.
+                  <br>Buena resistencia al impacto.
+                  <br>Buena resistencia a químicos.
+                  <br>Bacteriológicamente neutro.
+                  <br>Fisiológicamente inocuo.
+                  <br>Gestión eficaz en líneas de agua.
+                </p>
+                <h3>Montaje e Instalación</h3>
+                <hr>
+                <p>Los sistemas de tuberías se utilizan para transportar gas y fluidos en un área amplia con diferentes presiones y temperaturas. Los materiales de las tuberías pasan a cambios de tamaño, debido a los cambios de temperatura, las fuerzas externas, los efectos dependientes del tiempo (la fatiga y la relajación), los cambios en las estructuras internas, un valor de humedad y algunas otras razones. Al considerar los sistemas pi-g, los elementos más importantes que requieren la adopción de medidas son la temperatura y las fuerzas externas, así como el peso de la propia tubería, el peso de fluido transportado, la temperatura de funcionamiento, y la presión interna y externa.
+                  <br>Las tensiones térmicas  como resultado de puntos estáticos,  bloquea el movimiento de las tuberías en todas las direcciones y la prevención de movimiento angular de la tubería,  los soportes deslizantes permiten que las mismas tengan movimiento en dos direcciones.
+                </p>
+                <h3>Técnica de soldadura </h3>
+                <hr>
+                <p>Los tubos de PP-R se unen utilizando principalmente dos métodos:<br><br>
+                  a) ajuste roscado y conexiones de tubería.<br>
+                  b) Las uniones de fusión por soldadura. La fusión de uniones soldadas también se pueden clasificar en dos métodos. Soldadura por electrofusión, que utiliza accesorios de electrofusión, es menos práctico y más caro. Encajes de soldadura donde se utilizan elementos de calentamiento eléctrico para calentar los extremos de los tubos es el método preferido en Europa. Las uniones resultantes son muy fiables, y son tan fuertes como el mismo tubo.
+                </p>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+              </div>
+            </div>
+
+          </div>
+        </div>
     <!-- Clients Logo Section Start -->
 
 

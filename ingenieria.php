@@ -154,7 +154,10 @@
 
                   <div class="portfolio-contant">
                     <ul id="portfolio-contant-active">
-                        <li class="mix">
+                        <li class="mix" >
+                          <div class="text-center" style="width:80%">
+
+
                           <a data-toggle="modal" href="#ing-edgar" >
                             <img src="img/Ing. Edgar.png" alt="">
                             <div class="overly">
@@ -162,6 +165,7 @@
                                 <h2>MSC. Ing. Edgar O. Zumaquero Martínez</h2>
 
                               </div>
+                            </div>
                             </div>
                           </a>
                       </li>
