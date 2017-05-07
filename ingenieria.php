@@ -138,60 +138,35 @@
             <h2 class="title-mision">Experiencia</h2>
             <br>
             <div class="row">
-              <div class="col-md-4 col-sm-12">
 
-                <div class="block">
-
-                  <div class="thumbnail sin-fondo">
-                    <img src="img/hidroenergia.png" alt="...">
-                    <button type="button" data-toggle="modal" data-target="#hidroenergia" style="padding:0px;">
+              <div class="col-sm-4">
 
 
-                    <div class="caption">
-
-                      <h3 style="margin:20px;">Centrales hidroeléctricas</h3>
-                    </div>
-                    </button>
-                  </div>
-
-                </div>
-
-
+                    <!-- <button type="button" data-toggle="modal" data-target="#hidroenergia" style="padding:0px;"> -->
+                      <a data-toggle="modal" href="#hidroenergia" >
+                        <img src="img/hidroenergia.png" alt="...">
+                          <div class="text-center">
+                            <h3>Centrales hidroeléctricas</h3>
+                          </div>
+                      </a>
               </div>
 
               <div class="col-md-4 col-sm-12">
-                <div class="block">
-                  <div >
-                    <div class="thumbnail sin-fondo">
-                      <img src="img/drenaje-riego.png" alt="...">
-                      <button type="button" data-toggle="modal" data-target="#riego-drenaje" style="padding:0px;">
-
-
-                      <div class="caption">
-
-                        <h3 style="margin:20px;">Sistema de riego y drenaje</h3>
+                  <a data-toggle="modal" href="#riego-drenaje" >
+                    <img src="img/drenaje-riego.png" alt="...">
+                      <div class="text-center">
+                        <h3>Sistema de riego y drenaje</h3>
                       </div>
-                      </button>
-                    </div>
-                  </div>
-              </div>
+                  </a>
               </div>
               <div class="col-md-4 col-sm-12">
-                <div class="block">
-                  <div class="thumbnail sin-fondo">
-                    <img src="img/planta-tratamiento.png" alt="...">
-                    <button type="button" data-toggle="modal" data-target="#plantas-tratamiento" style="padding:0px;">
-
-
-                    <div class="caption">
-                      <h3 style="margin:20px 26px 20px 26px;">Plantas de tratamiento</h3>
-                    </div>
-                    </button>
-                  </div>
-                </div>
-              </div><!-- .col-md-4 close -->
+                    <a data-toggle="modal" href="#plantas-tratamiento" >
+                      <img src="img/planta-tratamiento.png" alt="...">
+                        <div class="text-center">
+                          <h3>Plantas de tratamiento</h3>
+                        </div>
+                    </a>
             </div>
-          </div>
         </section>
 
         <section id="portfolio-work" class="cuarta-seccion">
