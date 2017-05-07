@@ -36,6 +36,20 @@
    transform: translate(-50%, -50%);
    -ms-transform: translate(-50%, -50%);
  }
+ a{
+   color: black;
+ }
+ a:hover{
+   color:rgb(100, 103, 105);
+ }
+ /*a img{
+   -webkit-filter: grayscale(100%);
+   filter: grayscale(100%);
+ }
+ a img:hover{
+   -webkit-filter: grayscale(0%);
+   filter: grayscale(0%);
+ }*/
  </style>
         <!-- Slider Start -->
     <section id="global-header" class="header-ingenieria">
@@ -180,83 +194,39 @@
           </div>
         </section>
 
-        <!-- <section class="cuarta-seccion">
-          <div class="container">
-                <img src="img/Ing. Edgar.png" alt="Avatar" class="image" width="300" height="auto">
-                <div class="overlay">
-                  <div class="text">Hello World</div>
-                </div>
-        </div>
-
-        <div class="container">
-              <img src="img/Ing. Edgar.png" alt="Avatar" class="image" width="300" height="auto">
-              <div class="overlay">
-                <div class="text">Hello World</div>
-              </div>
-      </div>
-        </section> -->
-
-
         <section id="portfolio-work" class="cuarta-seccion">
           <div class="container">
-            <h2 class="title-mision">STAFF</h2>
-            <p>Equipo altamente calificado.</p>
             <div class="row">
-              <div class="col-md-12">
-                <div class="block">
+              <h2>STAFF</h2>
+              <h3>Equipo altamente calificado</h3><br>
+              <div class="col-sm-3">
+                <a data-toggle="modal" href="#ing-edgar" >
+                  <img src="img/Ing. Edgar.png" alt="" width="230">
+                    <div class="text-center">
+                      <h3>MSC. Ing. Edgar O. Zumaquero Martínez</h3>
+                    </div>
+                </a>
+              </div>
 
-                  <div class="portfolio-contant">
-                    <ul id="portfolio-contant-active">
-                        <li class="mix">
-                          <a data-toggle="modal" href="#ing-edgar" >
-                            <img src="img/Ing. Edgar.png" alt="" width="42" height="auto">
-                            <div class="overly">
-                              <div class="text-center">
-                                <br><br><br><br><br>
-                                <h2>MSC. Ing. Edgar O. Zumaquero Martínez</h2>
+              <div class="col-sm-3">
+                <a data-toggle="modal" href="#ing-ariel" >
+                  <img src="img/Ing. Ariel.png" alt="" width="230">
+                    <h3>MSC. Ing. Ariel Enrique Ramos Hernández</h3>
+                </a>
+              </div>
 
-                              </div>
-                            </div>
-                          </a>
-                      </li>
-                      <li class="mix">
-                        <a data-toggle="modal" href="#ing-ariel" >
-                          <img src="img/Ing. Ariel.png" alt="">
-                          <div class="overly">
-                            <div class="text-center">
-                              <br><br><br><br><br>
-                              <h2>MSC. Ing. Ariel Enrique Ramos Hernández</h2>
+              <div class="col-sm-3">
+                <a data-toggle="modal" href="#ing-javier" >
+                  <img src="img/Ing. Javi.png" alt="" width="230">
+                    <h3>MSC. Ing. Javier Peña González</h3>
+                </a>
+              </div>
 
-                            </div>
-                          </div>
-                        </a>
-                    </li>
-                    <li class="mix">
-                      <a data-toggle="modal" href="#ing-javier" >
-                        <img src="img/Ing. Javi.png" alt="">
-                        <div class="overly">
-                          <div class="text-center">
-                            <br><br><br><br><br>
-                            <h2>MSC. Ing. Javier Peña González</h2>
-
-                          </div>
-                        </div>
-                      </a>
-                  </li>
-                  <li class="mix">
-                    <a data-toggle="modal" href="#ing-yanel" >
-                      <img src="img/Ing. Yanel.png" alt="">
-                      <div class="overly">
-                        <div class="text-center">
-                          <br><br><br><br><br>
-                          <h2>Ing. Yanel Llanes Pozo</h2>
-                        </div>
-                      </div>
-                    </a>
-                </li>
-                    </ul>
-                  </div>
-                </div>
+              <div class="col-sm-3">
+                <a data-toggle="modal" href="#ing-yanel" >
+                  <img src="img/Ing. Yanel.png" alt="" width="230">
+                      <h3>Ing. Yanel Llanes Pozo</h3>
+                </a>
               </div>
             </div>
           </div>
