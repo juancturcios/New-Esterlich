@@ -17,7 +17,7 @@
  <section id="" class="recycle">
    <div class="container">
      <div class="row">
-       <div>
+       <div class="col-sm-12">
          <h2 class="title-mision">Nuestros Partners</h2>
        </div>
        <hr>
@@ -98,9 +98,8 @@
               </span>
               <br>
               <span class="glyphicon glyphicon-phone" aria-hidden="true">
-                <p href="tel:5552573990">(+504) 9558-0727</p>
+                <a href="tel:5552573990">(+504) 9558-0727</a>
               </span>
-
             </div>
 
             <div>

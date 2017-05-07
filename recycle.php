@@ -19,10 +19,15 @@
     <section id="" class="recycle">
       <div class="container">
         <div class="row">
-          <div>
-            <h2 class="title-mision">Plásticos Reciclados</h2>
+          <div class="col-sm-12">
+            <div class="block">
+              <div>
+                <h2 class="title-mision">PLÁSTICOS RECICLADOS</h2>
+              </div>
+              <p>Fabricamos y comercializamos reciclados de polietileno posindustrial, PET y fibras de poliéster para la industria automotriz, textil, construcción, muebles y otros. </p>
+            </div>
+          </div><!-- .col-md-7 close -->
           </div>
-          <p>Fabricamos y comercializamos reciclados de polietileno posindustrial, PET y fibras de poliéster para la industria automotriz, textil, construcción, muebles y otros. </p>
           <hr>
           <div class="col-md-6 col-sm-12">
             <div class="block">
