@@ -27,7 +27,7 @@
              <h3 class="title-mision">MÉXICO</h3>
              <img src="img/mexico.png" alt ="EMIMEX MÉXICO" width="230" height="115">
              <h3>EMIMEX</h3>
-             <br>
+
              <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                <a href="mailto:www.gpolytek.com"> www.gpolytek.com</a><br>
              </span>
@@ -45,7 +45,6 @@
              <h3 class="title-mision">NICARAGUA</h3>
              <img src="img/nicaragua.png" width="230" height="115">
              <h3>NOVATEX-NICARAGUA</h3>
-             <br>
              <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                <a href="mailto:info@novatex-group.com"> info@novatex-group.com</a>
              </span>
@@ -61,7 +60,6 @@
              <h3 class="title-mision">NOVATEX-PERÚ</h3>
              <img src="img/peru.png" width="230" height="115">
              <h3>NOVATEX-PERÚ</h3>
-             <br>
              <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                <a href="mailto:info@novatex-group.com"> info@novatex-group.com</a>
              </span>
@@ -75,13 +73,13 @@
       </div>
 
 
-
+      <hr>
       <div class="row text-center">
         <div class="col-sm-4">
           <div class="block">
             <div>
               <h2 class="title-mision">GUATEMALA</h2>
-              <br>
+
               <img src="img/guatemala.png" width="230" height="115">
               <h3>MESOPLAST-SEREX</h3>
             </div>
@@ -93,8 +91,9 @@
             <div>
               <h2 class="title-mision">HONDURAS</h2>
               <img src="img/honduras.png" width="230" height="115">
+              <h3>GRUPO ARQUETIPO</h3>
               <h3>SODINCO</h3>
-              <br>
+
               <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                 <a href="mailto:www.sodincohn.com"> www.sodincohn.com</a>
               </span>
@@ -114,10 +113,6 @@
                 <a href="tel:5552573990">(+502) 6662-1500</a>
               </span>
             </div>
-
-            <div>
-              <h3>GRUPO ARQUETIPO</h3>
-            </div>
           </div>
         </div>
 
@@ -127,7 +122,6 @@
               <h2 class="title-mision">ESPAÑA</h2>
               <img src="img/espana.png" width="230" height="115">
               <h3>GRUPO DILMA</h3>
-              <br>
               <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                 <a href="mailto:www.grupodilma.com"> www.grupodilma.com</a>
               </span>
