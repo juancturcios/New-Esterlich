@@ -34,21 +34,21 @@
           <div class="col-sm-4">
               <a data-toggle="modal" href="#pead-liso" >
                 <img src="img/Politex-1.png" class="img-responsive center-block" width="250px">
-                    <h2 style="color:black;">TUBERIAS PEAD LISO</h2>
+                    <h2 style="color:#333333;">TUBEÍAS PEAD LISO</h2>
               </a>
           </div>
 
           <div class="col-sm-4">
             <a data-toggle="modal" href="#tuberias-corrugadas" >
               <img src="img/Politex-2.png" class="img-responsive center-block" width="250px">
-                    <h2 style="color:black;">TUBERIAS CORRUGADAS</h2>
+                    <h2 style="color:#333333;">TUBERÍAS CORRUGADAS</h2>
               </a>
           </div>
 
           <div class="col-sm-4">
             <a data-toggle="modal" href="#materia-prima-HDPE" >
               <img src="img/Politex-3.png" class="img-responsive center-block" width="250px">
-                    <h2 style="color:black;">MATERIA PRIMA POLIETILENO DE ALTA DENSIDAD (HDPE)</h2>
+                    <h2 style="color:#333333;">MATERÍA PRIMA POLIETILENO DE ALTA DENSIDAD (HDPE)</h2>
               </a>
           </div>
 
@@ -59,21 +59,21 @@
           <div class="col-sm-4">
             <a data-toggle="modal" href="#tuberias-espiral-alcantarillado" >
               <img src="img/Politex-4.png" class="img-responsive center-block" width="250px">
-                    <h2 style="color:black;" >TUBERÍAS PEAD LISO</h2>
+              <h2 style="color:#333333;">TUBERÍAS EN ESPIRAL PARA ALCANTARILLADO Y PROYECTOS DE CENTRALES ELÉCTRICAS</h2>
               </a>
           </div>
 
           <div class="col-sm-4">
             <a data-toggle="modal" href="#tuberias-espiral-PEAD" >
               <img src="img/Politex-5.png" class="img-responsive center-block" width="250px">
-                    <h2 style="color:black;" >TUBERÍA EN ESPIRAL PEAD PARA SISTEMAS SIN PRESIÓN (GRAVITACIONALES)</h2>
+                    <h2 style="color:#333333;">TUBERÍA EN ESPIRAL PEAD PARA SISTEMAS SIN PRESIÓN (GRAVITACIONALES)</h2>
               </a>
           </div>
 
           <div class="col-sm-4">
             <a data-toggle="modal" href="#tuberia-PPR" >
               <img src="img/Politex-6.png" class="img-responsive center-block" width="250px">
-                    <h2 style="color:black;">TUBERÍAS PPR</h2>
+                    <h2 style="color:#333333;">TUBERÍAS PPR</h2>
               </a>
           </div>
 
