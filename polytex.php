@@ -33,22 +33,22 @@
         <div class="row text-center">
           <div class="col-sm-4">
               <a data-toggle="modal" href="#pead-liso" >
-                <img src="img/Politex-1.png" class="img-responsive center-block">
-                    <h2>TUBERIAS PEAD LISO</h2>
+                <img src="img/Politex-1.png" class="img-responsive center-block" width="250px">
+                    <h2 style="color:black;">TUBERIAS PEAD LISO</h2>
               </a>
           </div>
 
           <div class="col-sm-4">
             <a data-toggle="modal" href="#tuberias-corrugadas" >
-              <img src="img/Politex-2.png" class="img-responsive center-block">
-                    <h2>TUBERIAS CORRUGADAS</h2>
+              <img src="img/Politex-2.png" class="img-responsive center-block" width="250px">
+                    <h2 style="color:black;">TUBERIAS CORRUGADAS</h2>
               </a>
           </div>
 
           <div class="col-sm-4">
             <a data-toggle="modal" href="#materia-prima-HDPE" >
-              <img src="img/Politex-3.png" class="img-responsive center-block">
-                    <h2>MATERIA PRIMA POLIETILENO DE ALTA DENSIDAD (HDPE)</h2>
+              <img src="img/Politex-3.png" class="img-responsive center-block" width="250px">
+                    <h2 style="color:black;">MATERIA PRIMA POLIETILENO DE ALTA DENSIDAD (HDPE)</h2>
               </a>
           </div>
 
@@ -58,22 +58,22 @@
         <div class="row text-center">
           <div class="col-sm-4">
             <a data-toggle="modal" href="#tuberias-espiral-alcantarillado" >
-              <img src="img/Politex-4.png" class="img-responsive center-block">
-                    <h2>TUBERIAS PEAD LISO</h2>
+              <img src="img/Politex-4.png" class="img-responsive center-block" width="250px">
+                    <h2 style="color:black;" >TUBERÍAS PEAD LISO</h2>
               </a>
           </div>
 
           <div class="col-sm-4">
             <a data-toggle="modal" href="#tuberias-espiral-PEAD" >
-              <img src="img/Politex-5.png" class="img-responsive center-block">
-                    <h2>TUBERÍA EN ESPIRAL PEAD PARA SISTEMAS SIN PRESIÓN (GRAVITACIONALES)</h2>
+              <img src="img/Politex-5.png" class="img-responsive center-block" width="250px">
+                    <h2 style="color:black;" >TUBERÍA EN ESPIRAL PEAD PARA SISTEMAS SIN PRESIÓN (GRAVITACIONALES)</h2>
               </a>
           </div>
 
           <div class="col-sm-4">
             <a data-toggle="modal" href="#tuberia-PPR" >
-              <img src="img/Politex-6.png" class="img-responsive center-block">
-                    <h2>TUBERIAS PPR</h2>
+              <img src="img/Politex-6.png" class="img-responsive center-block" width="250px">
+                    <h2 style="color:black;">TUBERÍAS PPR</h2>
               </a>
           </div>
 
@@ -98,7 +98,7 @@
                 <a href="pdf/Catalogo PRC100 - 15.pdf" download>
                   <img class="center-block" src="img/pdf.png" alt="descargar PDF" width="80">
                 <a/>
-                <h3>Catalogo PRC100 - 15</h3>
+                <h3>Catálogo PRC100 - 15</h3>
 
               </div>
 
@@ -106,14 +106,14 @@
                 <a href="pdf/Infra-Structure System.pdf" download>
                   <img class="center-block" src="img/pdf.png" alt="descargar PDF" width="80">
                 <a/>
-                <h3>Infra-Structure System.pdf</h3>
+                <h3>Infra-Structure System</h3>
               </div>
 
               <div class="col-sm-4 text-center">
                 <a href="pdf/Polyethylene Pipe Welding Machine.pdf" download>
                   <img class="center-block" src="img/pdf.png" alt="descargar PDF" width="80">
                 <a/>
-                <h3>Polyethylene Pipe Welding Machine.pdf</h3>
+                <h3>Polyethylene Pipe Welding Machine</h3>
               </div>
 
             </div>
