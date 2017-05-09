@@ -146,7 +146,7 @@
                       <a data-toggle="modal" href="#hidroenergia" >
                         <img src="img/hidroenergia.png" class="img-responsive">
                           <div class="text-center">
-                            <h3>Centrales hidroeléctricas</h3>
+                            <h3><b>Centrales hidroeléctricas</b></h3>
                           </div>
                       </a>
               </div>
@@ -155,7 +155,7 @@
                   <a data-toggle="modal" href="#riego-drenaje" >
                     <img src="img/drenaje-riego.png" class="img-responsive">
                       <div class="text-center">
-                        <h3>Sistema de riego y drenaje</h3>
+                        <h3><b>Sistema de riego y drenaje</b></h3>
                       </div>
                   </a>
               </div>
@@ -163,7 +163,7 @@
                     <a data-toggle="modal" href="#plantas-tratamiento" >
                       <img src="img/planta-tratamiento.png" class="img-responsive">
                         <div class="text-center">
-                          <h3>Plantas de tratamiento</h3>
+                          <h3><b>Plantas de tratamiento</b></h3>
                         </div>
                     </a>
             </div>
@@ -178,7 +178,7 @@
                 <a data-toggle="modal" href="#ing-edgar" >
                   <img src="img/Ing. Edgar.png" alt="" width="230">
                     <div class="text-center">
-                      <h3>MSC. Ing. Edgar O. Zumaquero Martínez</h3>
+                      <h3><b>MSC. Ing. Edgar O. Zumaquero Martínez</b></h3>
                     </div>
                 </a>
               </div>
@@ -186,21 +186,21 @@
               <div class="col-sm-3">
                 <a data-toggle="modal" href="#ing-ariel" >
                   <img src="img/Ing. Ariel.png" alt="" width="230">
-                    <h3>MSC. Ing. Ariel Enrique Ramos Hernández</h3>
+                    <h3><b>MSC. Ing. Ariel Enrique Ramos Hernández</b></h3>
                 </a>
               </div>
 
               <div class="col-sm-3">
                 <a data-toggle="modal" href="#ing-javier" >
                   <img src="img/Ing. Javi.png" alt="" width="230">
-                    <h3>MSC. Ing. Javier Peña González</h3>
+                    <h3><b>MSC. Ing. Javier Peña González</b></h3>
                 </a>
               </div>
 
               <div class="col-sm-3">
                 <a data-toggle="modal" href="#ing-yanel" >
                   <img src="img/Ing. Yanel.png" alt="" width="230">
-                      <h3>Ing. Yanel Llanes Pozo</h3>
+                      <h3><b>Ing. Yanel Llanes Pozo</b></h3>
                 </a>
               </div>
             </div>
