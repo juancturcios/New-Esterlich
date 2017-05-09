@@ -16,17 +16,18 @@
 
  <section id="" class="recycle">
    <div class="container">
-     <div class="row">
+
+     <div class="row text-center">
        <div class="col-sm-12">
-         <h2 class="title-mision">Nuestros Partners</h2>
+         <h2 class="title-mision text-left">Nuestros Partners</h2>
        </div>
        <hr>
 
        <div class="col-sm-4">
-         <div class="block">
-           <div>
-             <h2 class="title-mision">EMIMEX MÉXICO</h2>
+             <h3 class="title-mision">MÉXICO</h3>
              <img src="img/mexico.png" alt ="EMIMEX MÉXICO" width="230" height="115">
+             <h3>EMIMEX</h3>
+             <br>
              <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                <a href="mailto:www.gpolytek.com"> www.gpolytek.com</a><br>
              </span>
@@ -38,17 +39,13 @@
              <span class="glyphicon glyphicon-phone" aria-hidden="true">
                <a href="tel:5552573990">(+55) 5257 3995</a>
              </span>
-             <!-- <p><span class="glyphicon glyphicon-phone"></span> +55 5257 3990</p> -->
-
-           </div>
-         </div>
        </div>
 
        <div class="col-sm-4">
-         <div class="block">
-           <div>
-             <h2 class="title-mision">NOVATEX-NICARAGUA</h2>
+             <h3 class="title-mision">NICARAGUA</h3>
              <img src="img/nicaragua.png" width="230" height="115">
+             <h3>NOVATEX-NICARAGUA</h3>
+             <br>
              <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                <a href="mailto:info@novatex-group.com"> info@novatex-group.com</a>
              </span>
@@ -56,14 +53,15 @@
              <span class="glyphicon glyphicon-phone" aria-hidden="true">
                <a href="tel:5552573990">(+505) 2249-8289</a>
              </span>
-           </div>
-         </div>
        </div>
+
        <div class="col-sm-4">
          <div class="block">
            <div>
-             <h2 class="title-mision">NOVATEX-PERÚ</h2>
+             <h3 class="title-mision">NOVATEX-PERÚ</h3>
              <img src="img/peru.png" width="230" height="115">
+             <h3>NOVATEX-PERÚ</h3>
+             <br>
              <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                <a href="mailto:info@novatex-group.com"> info@novatex-group.com</a>
              </span>
@@ -78,12 +76,14 @@
 
 
 
-      <div class="row">
+      <div class="row text-center">
         <div class="col-sm-4">
           <div class="block">
             <div>
-              <h2 class="title-mision">MESOPLAST-SEREX</h2>
+              <h2 class="title-mision">GUATEMALA</h2>
+              <br>
               <img src="img/guatemala.png" width="230" height="115">
+              <h3>MESOPLAST-SEREX</h3>
             </div>
           </div>
         </div>
@@ -91,8 +91,10 @@
         <div class="col-sm-4">
           <div class="block">
             <div>
-              <h2 class="title-mision">SODINCO HONDURAS</h2>
+              <h2 class="title-mision">HONDURAS</h2>
               <img src="img/honduras.png" width="230" height="115">
+              <h3>SODINCO</h3>
+              <br>
               <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                 <a href="mailto:www.sodincohn.com"> www.sodincohn.com</a>
               </span>
@@ -103,7 +105,7 @@
             </div>
 
             <div>
-              <h2 class="title-mision">PLADESA</h2>
+              <h3>PLADESA</h3>
               <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                 <a href="mailto:www.pladesa.com"> www.pladesa.com</a>
               </span>
@@ -114,7 +116,7 @@
             </div>
 
             <div>
-              <h2 class="title-mision">GRUPO ARQUETIPO</h2>
+              <h3>GRUPO ARQUETIPO</h3>
             </div>
           </div>
         </div>
@@ -122,8 +124,10 @@
         <div class="col-sm-4">
           <div class="block">
             <div>
-              <h2 class="title-mision">GRUPO DILMA ESPAÑA</h2>
+              <h2 class="title-mision">ESPAÑA</h2>
               <img src="img/espana.png" width="230" height="115">
+              <h3>GRUPO DILMA</h3>
+              <br>
               <span class="glyphicon glyphicon-envelope" aria-hidden="true">
                 <a href="mailto:www.grupodilma.com"> www.grupodilma.com</a>
               </span>
