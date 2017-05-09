@@ -70,7 +70,7 @@
             <div class="row">
               <div class="col-md-12 col-sm-12">
                 <div class="block">
-                  <div class="title-mision">
+                  <div class="text-center">
                     <br>
                     <h2><b>Esterlich &</b> HMC Ingenium SA</h2>
                   </div>

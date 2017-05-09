@@ -3,7 +3,7 @@
  ?>
 
         <!-- Slider Start -->
-    <section id="global-header" class="header-recycle">
+    <section id="global-header" class="header-polytex">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
@@ -24,7 +24,7 @@
         </div>
         <p>Somos orgullosos de nuestro excelente servicio a los clientes, gracias a nuestros sanos contactos con las productoras de materias primas en todo el mundo.
           El futuro es el uso responsable de los recurzos hidricos, por este motivo nuestra misión es producir y distribuir sistemas de conduccion ecologicos, sostenibles, con costes bajos de mantenimiento, larga vida útil, precios competivos y 100% reciclables. <br>
-Grupo Polytex empezó sus operaciones con el fin de producir sistemas de tubería en sus instalaciones de 50,000 metros cuadrados en 2011.
+        Grupo Polytex empezó sus operaciones con el fin de producir sistemas de tubería en sus instalaciones de 50,000 metros cuadrados en 2011.
           </p>
         <hr>
 
@@ -32,13 +32,8 @@ Grupo Polytex empezó sus operaciones con el fin de producir sistemas de tuberí
           <div class="col-md-12">
             <div class="block">
 
-              <div class="portfolio-contant">
-                <ul id="portfolio-contant-active">
-                    <li class="mix">
                       <a data-toggle="modal" href="#pead-liso" >
                         <img src="img/PET.png" alt="">
-                        <div class="overly">
-                          <div class="position-center" style="width:80%;">
                             <h2>TUBERIAS PEAD LISO</h2>
 
                           </div>
