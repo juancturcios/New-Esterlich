@@ -22,9 +22,11 @@
            <div>
              <h2 class="title-mision">CADA ENVÍO ES DIFERENTE</h2>
            </div>
-           <p>Para nuestros clientes la logística representa una parte muy importante del precio final del producto, por este motivo y gracias al volumen adquirido, adaptamos cada transporte al proyecto , dando un sevicio económico , rápido y de calidad
-              Hacemos envios en cualquier tipo de INCOTERM.
-              Diganos su necesidad y nosotros le damos la mejor solución.</p>
+           <p>Para nuestros clientes la logística representa una
+             parte muy importante del precio final del producto,
+             por este motivo y gracias al volumen adquirido, adaptamos cada transporte al proyecto, dando un sevicio económico, rápido y de calidad.
+              Hacemos envíos en cualquier tipo de INCOTERM.</p>
+              <p>Diganos su necesidad y nosotros le damos la mejor solución.</p>
          </div>
         </div><!-- .col-md-7 close -->
        </div>
