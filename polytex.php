@@ -34,7 +34,7 @@
           <div class="col-sm-4">
               <a data-toggle="modal" href="#pead-liso" >
                 <img src="img/Politex-1.png" class="img-responsive center-block" width="250px">
-                    <h2 style="color:#333333;">TUBEÍAS PEAD LISO</h2>
+                    <h2 style="color:#333333;">TUBERÍAS PEAD LISO</h2>
               </a>
           </div>
 
@@ -48,7 +48,7 @@
           <div class="col-sm-4">
             <a data-toggle="modal" href="#materia-prima-HDPE" >
               <img src="img/Politex-3.png" class="img-responsive center-block" width="250px">
-                    <h2 style="color:#333333;">MATERÍA PRIMA POLIETILENO DE ALTA DENSIDAD (HDPE)</h2>
+                    <h2 style="color:#333333;">MATERIA PRIMA POLIETILENO DE ALTA DENSIDAD (HDPE)</h2>
               </a>
           </div>
 
@@ -87,7 +87,7 @@
             <div class="row">
               <div class="col-md-6 col-sm-12">
                   <div class="text-justify">
-                      <h2 class="title-mision">Recursos de Polytex</h2><br>
+                      <h2 class="title-mision" <h2 style="color:#333333;">Recursos de Polytex</h2><br>
                 </div>
               </div>
 
