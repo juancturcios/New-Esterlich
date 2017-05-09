@@ -59,7 +59,7 @@
             <div id="contact-box" class="row">
               <div class="col-sm-12 text-center">
                 <div class="block">
-                  <h2>También visitenos ó escribanos a: </h2>
+                  <h2>También visítenos o escríbanos a: </h2>
                   <ul class="address-block">
                     <li>
                       <i class="fa fa-map-marker"></i>Esterlich&Co Spain Muelle de llevant Oficina c Bloque 3 Tarragona Spain
@@ -68,13 +68,13 @@
                       <i class="fa fa-map-marker"></i>Esterlich&Co USA 600 Village green ct apt c207 Palm spring, Florida 33461 USA
                     </li>
                     <li>
-                      <i class="fa fa-envelope-o"></i><a href="mailto:esterlich@esterlich-co.com">esterlich@esterlich-co.com ( mail general ) </a>
+                      <i class="fa fa-envelope-o"></i><a href="mailto:esterlich@esterlich-co.com">esterlich@esterlich-co.com (Mail general) </a>
                     </li>
                     <li>
-                      <i class="fa fa-envelope-o"></i><a href="mailto:esterlich-hmc@esterlich-co.com">esterlich-hmc@esterlich-co.com ( ingenieria)  </a>
+                      <i class="fa fa-envelope-o"></i><a href="mailto:esterlich-hmc@esterlich-co.com">esterlich-hmc@esterlich-co.com (Ingeniería)  </a>
                     </li>
                     <li>
-                      <i class="fa fa-envelope-o"></i><a href="mailto:sales@polytek-ipg.com">sales@polytek-ipg.com ( catalogos y precios de tuberias)</a>
+                      <i class="fa fa-envelope-o"></i><a href="mailto:sales@polytek-ipg.com">sales@polytek-ipg.com (Catálogos y precios de tuberías)</a>
                     </li>
                     <li>
                       <i class="fa fa-envelope-o"></i><a href="mailto:esterlich-recycle@esterlich.co.com">esterlich-recycle@esterlich.co.com</a>
