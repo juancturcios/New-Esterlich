@@ -1,6 +1,11 @@
 <?php
   include 'header.html';
  ?>
+ <style media="screen">
+   a{
+     text-decoration: none;
+   }
+ </style>
 
         <!-- Slider Start -->
     <section id="global-header" class="header-polytex">
@@ -19,85 +24,59 @@
     <section id="portfolio-work">
 
       <div class="container">
-        <div >
           <h2 class="title-mision">ESTERLICH & POLYTEX </h2>
-        </div>
         <p>Somos orgullosos de nuestro excelente servicio a los clientes, gracias a nuestros sanos contactos con las productoras de materias primas en todo el mundo.
           El futuro es el uso responsable de los recurzos hidricos, por este motivo nuestra misión es producir y distribuir sistemas de conduccion ecologicos, sostenibles, con costes bajos de mantenimiento, larga vida útil, precios competivos y 100% reciclables. <br>
         Grupo Polytex empezó sus operaciones con el fin de producir sistemas de tubería en sus instalaciones de 50,000 metros cuadrados en 2011.
           </p>
         <hr>
-
-        <div class="row">
-          <div class="col-md-12">
-            <div class="block">
-
-                      <a data-toggle="modal" href="#pead-liso" >
-                        <img src="img/PET.png" alt="">
-                            <h2>TUBERIAS PEAD LISO</h2>
-
-                          </div>
-                        </div>
-                      </a>
-                  </li>
-                  <li class="mix">
-                    <a data-toggle="modal" href="#tuberias-corrugadas" >
-                      <img src="img/PET.png" alt="">
-                      <div class="overly">
-                        <div class="position-center" style="width:80%;">
-                          <h2>TUBERIAS CORRUGADAS</h2>
-
-                        </div>
-                      </div>
-                    </a>
-                </li>
-                <li class="mix">
-                  <a data-toggle="modal" href="#materia-prima-HDPE" >
-                    <img src="img/PET.png" alt="">
-                    <div class="overly">
-                      <div class="position-center " style="width:80%;">
-                        <h2>MATERIA PRIMA POLIETILENO DE ALTA DENSIDAD (HDPE)</h2>
-
-                      </div>
-                    </div>
-                  </a>
-              </li>
-              <li class="mix">
-                <a data-toggle="modal" href="#tuberias-espiral-alcantarillado" >
-                  <img src="img/PET.png" alt="">
-                  <div class="overly">
-                    <div class="position-center" style="width:80%;">
-                      <h2>TUBERÍAS EN ESPIRAL PARA ALCANTARILLADO Y PROYECTOS DE CENTRALES ELÉCTRICAS</h2>
-                    </div>
-                  </div>
-                </a>
-            </li>
-            <li class="mix">
-              <a data-toggle="modal" href="#tuberias-espiral-PEAD" >
-                <img src="img/PET.png" alt="">
-                <div class="overly">
-                  <div class="position-center" style="width:80%;">
-                    <h2>TUBERÍA EN ESPIRAL PEAD PARA SISTEMAS SIN PRESIÓN (GRAVITACIONALES) </h2>
-
-                  </div>
-                </div>
+        <div class="row text-center">
+          <div class="col-sm-4">
+              <a data-toggle="modal" href="#pead-liso" >
+                <img src="img/Politex-1.png" class="img-responsive center-block">
+                    <h2>TUBERIAS PEAD LISO</h2>
               </a>
-          </li>
-          <li class="mix">
-            <a data-toggle="modal" href="#tuberia-PPR" >
-              <img src="img/PET.png" alt="">
-              <div class="overly">
-                <div class="position-center" style="width:80%;">
-                  <h2>TUBERIAS PPR</h2>
-
-                </div>
-              </div>
-            </a>
-        </li>
-                </ul>
-              </div>
-            </div>
           </div>
+
+          <div class="col-sm-4">
+            <a data-toggle="modal" href="#tuberias-corrugadas" >
+              <img src="img/Politex-2.png" class="img-responsive center-block">
+                    <h2>TUBERIAS CORRUGADAS</h2>
+              </a>
+          </div>
+
+          <div class="col-sm-4">
+            <a data-toggle="modal" href="#materia-prima-HDPE" >
+              <img src="img/Politex-3.png" class="img-responsive center-block">
+                    <h2>MATERIA PRIMA POLIETILENO DE ALTA DENSIDAD (HDPE)</h2>
+              </a>
+          </div>
+
+        </div>
+        <hr>
+
+        <div class="row text-center">
+          <div class="col-sm-4">
+            <a data-toggle="modal" href="#tuberias-espiral-alcantarillado" >
+              <img src="img/Politex-4.png" class="img-responsive center-block">
+                    <h2>TUBERIAS PEAD LISO</h2>
+              </a>
+          </div>
+
+          <div class="col-sm-4">
+            <a data-toggle="modal" href="#tuberias-espiral-PEAD" >
+              <img src="img/Politex-5.png" class="img-responsive center-block">
+                    <h2>TUBERÍA EN ESPIRAL PEAD PARA SISTEMAS SIN PRESIÓN (GRAVITACIONALES)</h2>
+              </a>
+          </div>
+
+          <div class="col-sm-4">
+            <a data-toggle="modal" href="#tuberia-PPR" >
+              <img src="img/Politex-6.png" class="img-responsive center-block">
+                    <h2>TUBERIAS PPR</h2>
+              </a>
+          </div>
+
         </div>
       </div>
     </section>
@@ -107,44 +86,41 @@
           <div class="container">
             <div class="row">
               <div class="col-md-6 col-sm-12">
-                <div class="block">
                   <div class="text-justify">
-                    <div >
-                      <h2 class="title-mision">Misión</h2>
-                    </div>
-                    <p>Nuestra Misión es proporcionar a la sociedad una respuesta colectiva de los agentes económicos ante los temas medioambientales relacionados con el consumo de productos envasados domésticos, logrando el cumplimiento de los objetivos marcados por la Ley, con la mayor eficiencia en el uso de los recursos de la compañía.
-Asimismo, creamos valor social y ambiental en nuestra sociedad, promoviendo la educación ambiental, la innovación, la eficiencia y la generación de empleo y tejido industrial.</p>
-                  </div>
+                      <h2 class="title-mision">Recursos de Polytex</h2><br>
                 </div>
-              </div><!-- .col-md-7 close -->
-              <div class="col-md-6 col-sm-12">
-                <div class="block">
-                  <div class="text-justify">
-                    <div >
-                      <h2 style="font-weight:600; font-style: italic;">#SeTeHaCaído</h2>
-                    </div>
-                    <p>El abandono de residuos es una de las mayores amenazas medioambientales para el futuro del planeta. Sus consecuencias ponen en peligro la supervivencia de especies y ecosistemas fundamentales en el entorno que nos rodea.
-Este es el momento de actuar y unir nuestras fuerzas en la lucha contra un problema global de terribles consecuencias. Y conseguirlo no es tan complicado: #SeTeHaCaído es la demostración de que un pequeño gesto multiplicado por muchas personas puede ser la solución a este problema, una llamada a la colaboración de todos que empieza por asumir nuestra responsabilidad y actuar en consecuencia para conseguir un objetivo del que todos podremos beneficiarnos.</p>
-                  </div>
-                </div>
-              </div><!-- .col-md-5 close -->
-            </div>
-          </div>
-        </section>
+              </div>
 
-        <section id="recycle" class="tercera-seccion">
-          <div class="container">
+            </div>
+
             <div class="row">
-              <div class="col-sm-12">
-                <div class="block">
-                  <div class="text-justify">
+              <div class="col-sm-4 text-center">
+                <a href="pdf/Catalogo PRC100 - 15.pdf" download>
+                  <img class="center-block" src="img/pdf.png" alt="descargar PDF" width="80">
+                <a/>
+                <h3>Catalogo PRC100 - 15</h3>
 
-                  </div>
-                </div>
-              </div><!-- .col-md-7 close -->
+              </div>
+
+              <div class="col-sm-4 text-center">
+                <a href="pdf/Infra-Structure System.pdf" download>
+                  <img class="center-block" src="img/pdf.png" alt="descargar PDF" width="80">
+                <a/>
+                <h3>Infra-Structure System.pdf</h3>
+              </div>
+
+              <div class="col-sm-4 text-center">
+                <a href="pdf/Polyethylene Pipe Welding Machine.pdf" download>
+                  <img class="center-block" src="img/pdf.png" alt="descargar PDF" width="80">
+                <a/>
+                <h3>Polyethylene Pipe Welding Machine.pdf</h3>
+              </div>
+
             </div>
           </div>
         </section>
+
+
 
 
         <div id="pead-liso" class="modal fade" role="dialog">
@@ -171,9 +147,9 @@ Este es el momento de actuar y unir nuestras fuerzas en la lucha contra un probl
                 <h3>Clasificación de la tubería de PE-100RC </h3>
                 <hr>
                 <p>
-                  Tipo 1: Tuberías de Pared Compuesta PE-100RC <br><img src="img/PET.png" alt=""><br>
-                  Tipo 2: Tubería dimensionalmente integrada con capa protectora hecha de PE-100RC <br> <img src="img/PET.png" alt=""><br>
-                  Tipo 3: Tubería con dimensiones de acuerdo al ISO 4065 con capa externa protectora dimensionalmente fabricada en PE-100RC  <br><img src="img/PET.png" alt=""><br>
+                  Tipo 1: Tuberías de Pared Compuesta PE-100RC <br><img src="img/1.png" alt="" width="300px"><br>
+                  Tipo 2: Tubería dimensionalmente integrada con capa protectora hecha de PE-100RC <br> <img src="img/2.png" width="300px"><br>
+                  Tipo 3: Tubería con dimensiones de acuerdo al ISO 4065 con capa externa protectora dimensionalmente fabricada en PE-100RC  <br><img src="img/3.png" width="300px"><br>
                 </p>
                 <h3>Montaje e instalación</h3>
                 <hr>
