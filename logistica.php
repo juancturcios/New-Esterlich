@@ -36,19 +36,22 @@
              <img class="img-responsive center-block" src="img/auto.png" alt="Auto" width="230px">
              <br>
              <h3>Trasporte terrestre</h3>
+             <hr>
            </div>
 
 
          <div class="col-md-4 text-center">
            <img class="img-responsive center-block" src="img/barco.png" alt="Barco" width="230px">
-           <br><br>
+           <br>
            <h3>Trasporte marítimo</h3>
+           <hr>
          </div>
 
          <div class="col-md-4 text-center">
            <img class="img-responsive center-block" src="img/avion.png" alt="Avion" width="230px">
            <br>
            <h3>Trasporte aéreo</h3>
+           <hr>
          </div>
        </div>
 
