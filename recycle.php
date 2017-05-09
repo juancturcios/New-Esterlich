@@ -29,6 +29,8 @@
           </div><!-- .col-md-7 close -->
           </div>
           <hr>
+
+          
           <div class="col-md-6 col-sm-12">
             <div class="block">
               <div class="media">
@@ -40,11 +42,13 @@
                   <h2 class="title-mision">FS</h2>
                   <p>(Fibras Sintéticas)</p>
                   <p class="text-justify">Con nuestro reciclados unos de nuestros partners, fabrica fibras para diferentes sectores aprovechando los residuos y convirtiéndolos en productos útiles para la industria. <br><br><b>Los principales destinos de este producto son:</b>
-Aislantes, almohadas, bajo, alfombras,  bolsas de dormir, cojines, colchones, edredones equipo de campamento, filtros, geotextiles, guatas, industria automotriz, muñecos de peluche, salas, sillones,  sofás y otros productos relacionados.</p>
+                  Aislantes, almohadas, bajo, alfombras,  bolsas de dormir, cojines, colchones, edredones equipo de campamento, filtros, geotextiles, guatas, industria automotriz, muñecos de peluche, salas, sillones,  sofás y otros productos relacionados.</p>
                 </div>
             </div>
             </div>
           </div><!-- .col-md-7 close -->
+
+
           <div class="col-md-6 col-sm-12">
             <div class="block">
               <div class="media">
