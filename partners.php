@@ -78,7 +78,7 @@
         <div class="col-sm-4">
           <div class="block">
             <div>
-              <h2 class="title-mision">GUATEMALA</h2>
+              <h3 class="title-mision">GUATEMALA</h3>
 
               <img src="img/guatemala.png" width="230" height="115">
               <h3>MESOPLAST-SEREX</h3>
@@ -89,7 +89,7 @@
         <div class="col-sm-4">
           <div class="block">
             <div>
-              <h2 class="title-mision">HONDURAS</h2>
+              <h3 class="title-mision">HONDURAS</h3>
               <img src="img/honduras.png" width="230" height="115">
               <h3>GRUPO ARQUETIPO</h3>
               <h3>SODINCO</h3>
@@ -119,7 +119,7 @@
         <div class="col-sm-4">
           <div class="block">
             <div>
-              <h2 class="title-mision">ESPAÑA</h2>
+              <h3 class="title-mision">ESPAÑA</h3>
               <img src="img/espana.png" width="230" height="115">
               <h3>GRUPO DILMA</h3>
               <span class="glyphicon glyphicon-envelope" aria-hidden="true">
