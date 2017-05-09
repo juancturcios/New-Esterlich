@@ -129,9 +129,9 @@
             <div class="modal-content">
               <div class="modal-header" style="background-color:#d8d8d8;">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h2 class="modal-title text-center" >Tuberías PEAD Liso</h2>
+                <h2 class="modal-title text-center" style="color:#333333;">Tuberías PEAD Liso</h2>
               </div>
-              <div class="modal-body text-justify">
+              <div class="modal-body text-justify" style="color:#333333;">
                 <h3>PE-100RC</h3>
                 <hr>
                 <p>Los PE 100 tubos multicapa RC son tubos de crecimiento lento de fisuras de pared completa co-extruidos con una capa exterior de color dimensionalmente integrada. PE 100 RC multicapa es particularmente resistente a las consecuencias siguientes de rasguños causados cuando no se proporciona  cama de arena y al punto de las cargas que se producen durante un período de uso más largo. La utilización selectiva de otras características de los productos desarrollados - resistencia al crecimiento lento de grietas - garantiza el cumplimiento de todos los requisitos de la moderna y económica instalación de tuberías. El proceso de fabricación asegura una vida útil de más de 100 años, incluso con el tubo convencional puesto (sin cama de arena).</p>
@@ -172,9 +172,9 @@
             <div class="modal-content">
               <div class="modal-header" style="background-color:#d8d8d8;">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h2 class="modal-title text-center" >Tuberías Corrugadas</h2>
+                <h2 class="modal-title text-center" style="color:#333333;">Tuberías Corrugadas</h2>
               </div>
-              <div class="modal-body text-justify">
+              <div class="modal-body text-justify" style="color:#333333;">
                 <h3>Tubería Corrugada</h3>
                 <hr>
                 <p>Después de ser usadas por muchos años en E.U.A., Japón y Europa, Polytex mejoró la tecnología de la Tubería Corrugada HDPE con acero reforzado y sin éste, con un equipo de gente experimentada para contribuir a la economía del país, en una fábrica con una superficie de 8.000 metros cuadrados. La Tubería Corrugada HDPE y la Tubería Corrugada con Acero Reforzado HDPE son dos tipos de tubería corrugada que podemos producir. </p>
@@ -210,9 +210,9 @@
             <div class="modal-content">
               <div class="modal-header" style="background-color:#d8d8d8;">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h2 class="modal-title text-center" >Materia Prima: Polietileno de Alta Densidad (HDPE)</h2>
+                <h2 class="modal-title text-center" style="color:#333333;" >Materia Prima: Polietileno de Alta Densidad (HDPE)</h2>
               </div>
-              <div class="modal-body text-justify">
+              <div class="modal-body text-justify" style="color:#333333;">
                 <h3>Polietileno de Alta Densidad (HDPE)</h3>
                 <hr>
                 <p>El polietileno es un termoplástico que se utiliza en una amplia gama de productos. Toma su nombre de etileno en estado de monómero. El polietileno se produce a partir de etileno. Su nombre corto es  generalmente conocido como PE en la industria del plástico.<br>La molécula de etileno es C2H4, de hecho, está formado por dos partículas CH2 atadas con doble enlace. El polietileno se fabrica a través de la polimerización de etileno. La polimerización es una reacción comenzando con unidades de monómero y que resulta en unidades de polímero. <br>Polietileno de alta densidad es un material derivado del petróleo. Es la Abreviatura del polietileno de alta densidad HDPE. En el sector de la industria y fabricación, por lo general se utiliza su abreviatura.</p>
@@ -259,9 +259,9 @@
             <div class="modal-content">
               <div class="modal-header" style="background-color:#d8d8d8;">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h2 class="modal-title text-center" >Tuberías en espiral para alcantarillado y proyectos de centrales eléctricas</h2>
+                <h2 class="modal-title text-center" style="color:#333333;">Tuberías en espiral para alcantarillado y proyectos de centrales eléctricas</h2>
               </div>
-              <div class="modal-body text-justify">
+              <div class="modal-body text-justify" style="color:#333333;">
                 <h3>Tubería en espiral</h3>
                 <hr>
                 <p>Al escoger tubería de plástico para proyectos de drenaje presentará sin duda alguna ventajas cruciales como  asegurar 100% de estanqueidad y llevar las pérdidas a cero. Diámetros excesivos de tubería que alcanzan 2-3 metros en proyectos de drenaje se suman a los costos de transporte y naturalmente aumentan el gasto total del proyecto, por lo que son desfavorables. Para evitar costos exorbitantes de transporte debido al alto volumen empleado de tubería en proyectos de drenaje donde solo un solo tubo cabe en un camión, nuestra empresa a desarrollado el método de manufactura in-situ basado en nuestra tecnología de punta y más moderna.</p>
@@ -293,9 +293,9 @@
             <div class="modal-content">
               <div class="modal-header" style="background-color:#d8d8d8;">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h2 class="modal-title text-center" >Tuberías en espiral PEAD para sistemas sin presión (Gravitacionales)</h2>
+                <h2 class="modal-title text-center" style="color:#333333;" >Tuberías en espiral PEAD para sistemas sin presión (Gravitacionales)</h2>
               </div>
-              <div class="modal-body text-justify">
+              <div class="modal-body text-justify" style="color:#333333;">
                 <h3>Tubería en espiral</h3>
                 <hr>
                 <p>La tubería en espiral está diseñada como una estructura flexible para minimizar los efectos del movimiento del suelo y deformaciones y prevenir fugas de ka tubería y su estructura. </p>
@@ -338,9 +338,9 @@
             <div class="modal-content">
               <div class="modal-header" style="background-color:#d8d8d8;">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h2 class="modal-title text-center" >Tuberías PPR</h2>
+                <h2 class="modal-title text-center" style="color:#333333;">Tuberías PPR</h2>
               </div>
-              <div class="modal-body text-justify">
+              <div class="modal-body text-justify" style="color:#333333;">
                 <h3>Tubería PPR</h3>
                 <hr>
                 <p>El Polipropileno Random, PP-R, es un polímero (plástico), que debido a sus excelentes propiedades, lo convierten en la mejor
