@@ -138,32 +138,32 @@
             <h2 class="title-mision">Experiencia</h2>
             <br>
             <div class="row">
-
               <div class="col-sm-4">
-
-
                     <!-- <button type="button" data-toggle="modal" data-target="#hidroenergia" style="padding:0px;"> -->
                       <a data-toggle="modal" href="#hidroenergia" >
-                        <img src="img/hidroenergia.png" class="img-responsive">
+                        <img src="img/hidroenergia.png" class="img-responsive center-block">
                           <div class="text-center">
                             <h3><b>Centrales hidroeléctricas</b></h3>
+                            <hr>
                           </div>
                       </a>
               </div>
 
               <div class="col-md-4 col-sm-12">
                   <a data-toggle="modal" href="#riego-drenaje" >
-                    <img src="img/drenaje-riego.png" class="img-responsive">
+                    <img src="img/drenaje-riego.png" class="img-responsive center-block">
                       <div class="text-center">
                         <h3><b>Sistema de riego y drenaje</b></h3>
+                        <hr>
                       </div>
                   </a>
               </div>
               <div class="col-md-4 col-sm-12">
                     <a data-toggle="modal" href="#plantas-tratamiento" >
-                      <img src="img/planta-tratamiento.png" class="img-responsive">
+                      <img src="img/planta-tratamiento.png" class="img-responsive center-block">
                         <div class="text-center">
                           <h3><b>Plantas de tratamiento</b></h3>
+                          <hr>
                         </div>
                     </a>
             </div>

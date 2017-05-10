@@ -42,12 +42,12 @@
            </div><!-- .col-md-5 close -->
            <div class="col-sm-12">
              <div class="block">
-               <div >
+               <div>
                  <h2 class="title-mision">POLYTEX SYSTEMS</h2>
                </div>
                <p class="text-justify">Fabrica y comercializa todo tipo de sistemas de conducción
                   en polietileno y polipropileno tanto para grandes conducciones como para sistemas
-                  de agua a presión. No definimos como una empresa libre en PVC. Contamos con distribuidores
+                  de agua a presión. Nos definimos como una empresa libre en PVC. Contamos con distribuidores
                    en todo centro américas dando un servicio rápido y eficiente en todo momento.
                </p>
              </div>
