@@ -14,7 +14,7 @@
                 <div class="col-md-12">
                     <div class="block">
                         <h1>ESTERLICH POLYTEX SYSTEM</h1>
-                        <p>SYSTEMAS ECOPIPE PRESENTE &  FUTURO </p>
+                        <p>SISTEMAS ECOPIPE PRESENTE &  FUTURO </p>
                     </div>
                 </div>
             </div>
@@ -26,7 +26,7 @@
       <div class="container">
           <h2 class="title-mision">ESTERLICH & POLYTEX </h2>
         <p>Somos orgullosos de nuestro excelente servicio a los clientes, gracias a nuestros sanos contactos con las productoras de materias primas en todo el mundo.
-          El futuro es el uso responsable de los recurzos hidricos, por este motivo nuestra misión es producir y distribuir sistemas de conduccion ecologicos, sostenibles, con costes bajos de mantenimiento, larga vida útil, precios competivos y 100% reciclables. <br>
+          El futuro es el uso responsable de los recursos hídricos, por este motivo nuestra misión es producir y distribuir sistemas de conducción ecológicos, sostenibles, con costes bajos de mantenimiento, larga vida útil, precios competivos y 100% reciclables. <br>
         Grupo Polytex empezó sus operaciones con el fin de producir sistemas de tubería en sus instalaciones de 50,000 metros cuadrados en 2011.
           </p>
         <hr>
