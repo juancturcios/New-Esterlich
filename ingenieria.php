@@ -76,12 +76,11 @@
                   </div>
                   <div class="media">
 
-                    <div class="media-body">
 
                       <div class="text-justify">
 
                         <br>
-                      <p>Esterlich & HMC Ingenium SA son una empresa especializada en prestar servicios de ingeniería para proyectos diversos en los sectores de:
+                      <p class="text-justify">Esterlich & HMC Ingenium SA son una empresa especializada en prestar servicios de ingeniería para proyectos diversos en los sectores de:
                         <br>
                         <br>
                           <b>Ingeniería Hidráulica:</b> Proyectos de Riego, centrales hidroeléctricas, presas, canales de drenaje, de irrigación, potabilización y canalización.
@@ -90,7 +89,6 @@
                         <br>
                           <b>Ingeniería Civil:</b> Pasos de nivel, presas y derivadoras, canales, sistemas de riego y drenaje, acueductos y alcantarillado, estaciones de bombeo, tratamiento de residuales.</p>
 
-                      </div>
                     </div>
                     <div class="media-right media-middle">
 

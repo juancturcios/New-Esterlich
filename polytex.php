@@ -25,7 +25,7 @@
 
       <div class="container">
           <h2 class="title-mision">ESTERLICH & POLYTEX </h2>
-        <p>Estamos orgullosos de nuestro excelente servicio a los clientes, gracias a nuestros sanos contactos con las productoras de materias primas en todo el mundo.
+        <p class="text-justify">Estamos orgullosos de nuestro excelente servicio a los clientes, gracias a nuestros sanos contactos con las productoras de materias primas en todo el mundo.
           El futuro es el uso responsable de los recursos hídricos, por este motivo nuestra misión es producir y distribuir sistemas de conducción ecológicos, sostenibles, con costes bajos de mantenimiento, larga vida útil, precios competitivos y 100% reciclables. <br>
         Grupo Polytex empezó sus operaciones con el fin de producir sistemas de tubería en sus instalaciones de 50,000 metros cuadrados en 2011.
           </p>
@@ -239,12 +239,6 @@
                 <hr>
                 <p>Superficies interna y externa son producidas con polietileno.<br>Al usar 100% HDPE, la tubería tiene un alto valor de rigidez.<br>Producción de tubería corrugada reforzada con acero puede ser producida.
                 </p>
-                <h3>Ventajas de Nuestra Tubería</h3>
-                <hr>
-                <p>Nuestras máquinas son móviles, por lo que podemos producir nuestros tubos en cualquier lugar de acuerdo a la ubicación del proyecto.<br>Debido a nuestra tecnología de producción en espiral continua, podemos satisfacer la demanda rápidamente y el tiempo de entrega será corto.<br>Debido al bajo coeficiente de fricción, el flujo de agua deseado puede ser regulado con un diámetro de la tubería pequeño, así se reducirá el costo de la tubería.<br>Debido al bajo coeficiente de fricción, dentro de la tubería no se forman depósitos ni  sedimentos.<br>El interior de los tubos se produce con polietileno de alta densidad que es el material  más resistente a la corrosión.<br>Debido a la alta rigidez y bajo peso, los tubos son de transporte fácil y rápida instalación. El tiempo de instalación es corto y el costo de instalación es bajo.<br>No son necesarios materiales especiales para la instalación. El valor del costo del tubo con el costo de instalación es el valor más bajo en el sector de tuberías. No hay desperdicio en la instalación, ya que nuestros tubos no tienen extremo de la campana y extremo liso. Nuestros tubos están conectados de extremo a extremo.
-                <br>No hay ningún costo de mantenimiento de las tuberías y el costo de operación es muy bajo.
-                </p>
-              </div>
               <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
               </div>
